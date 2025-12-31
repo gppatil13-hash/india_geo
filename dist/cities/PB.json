@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Abohar",
+    "id": 57587
+  },
+  {
+    "name": "Adampur",
+    "id": 57592
+  },
+  {
+    "name": "Ajitgarh",
+    "id": 57612
+  },
+  {
+    "name": "Ajnala",
+    "id": 57615
+  },
+  {
+    "name": "Akalgarh",
+    "id": 57629
+  },
+  {
+    "name": "Alawalpur",
+    "id": 57651
+  },
+  {
+    "name": "Amloh",
+    "id": 57681
+  },
+  {
+    "name": "Amritsar",
+    "id": 57686
+  },
+  {
+    "name": "Anandpur Sahib",
+    "id": 57697
+  },
+  {
+    "name": "Badhni Kalan",
+    "id": 57791
+  },
+  {
+    "name": "Bagha Purana",
+    "id": 58109
+  },
+  {
+    "name": "Bakloh",
+    "id": 57819
+  },
+  {
+    "name": "Balachor",
+    "id": 58118
+  },
+  {
+    "name": "Banga",
+    "id": 57846
+  },
+  {
+    "name": "Banur",
+    "id": 57859
+  },
+  {
+    "name": "Barnala",
+    "id": 57882
+  },
+  {
+    "name": "Batala",
+    "id": 57906
+  },
+  {
+    "name": "Begowal",
+    "id": 57914
+  },
+  {
+    "name": "Bhadaur",
+    "id": 57950
+  },
+  {
+    "name": "Bhatinda",
+    "id": 57904
+  },
+  {
+    "name": "Bhawanigarh",
+    "id": 57977
+  },
+  {
+    "name": "Bhikhi",
+    "id": 58018
+  },
+  {
+    "name": "Bhogpur",
+    "id": 57990
+  },
+  {
+    "name": "Bholath",
+    "id": 143761
+  },
+  {
+    "name": "Budhlada",
+    "id": 58090
+  },
+  {
+    "name": "Chima",
+    "id": 131610
+  },
+  {
+    "name": "Dasuya",
+    "id": 131661
+  },
+  {
+    "name": "Dera Baba Nanak",
+    "id": 131696
+  },
+  {
+    "name": "Dera Bassi",
+    "id": 143763
+  },
+  {
+    "name": "Dhanaula",
+    "id": 131713
+  },
+  {
+    "name": "Dhariwal",
+    "id": 131756
+  },
+  {
+    "name": "Dhilwan",
+    "id": 131736
+  },
+  {
+    "name": "Dhudi",
+    "id": 143762
+  },
+  {
+    "name": "Dhuri",
+    "id": 131760
+  },
+  {
+    "name": "Dina Nagar",
+    "id": 131816
+  },
+  {
+    "name": "Dirba",
+    "id": 131777
+  },
+  {
+    "name": "Doraha",
+    "id": 131790
+  },
+  {
+    "name": "Faridkot",
+    "id": 131859
+  },
+  {
+    "name": "Fatehgarh Churian",
+    "id": 131865
+  },
+  {
+    "name": "Fatehgarh Sahib",
+    "id": 131866
+  },
+  {
+    "name": "Fazilka",
+    "id": 131881
+  },
+  {
+    "name": "Firozpur",
+    "id": 131875
+  },
+  {
+    "name": "Firozpur District",
+    "id": 131877
+  },
+  {
+    "name": "Gardhiwala",
+    "id": 131918
+  },
+  {
+    "name": "Garhshankar",
+    "id": 131921
+  },
+  {
+    "name": "Ghanaur",
+    "id": 131935
+  },
+  {
+    "name": "Giddarbaha",
+    "id": 131956
+  },
+  {
+    "name": "Gurdaspur",
+    "id": 132031
+  },
+  {
+    "name": "Guru Har Sahai",
+    "id": 132037
+  },
+  {
+    "name": "Hajipur",
+    "id": 132136
+  },
+  {
+    "name": "Hariana",
+    "id": 132077
+  },
+  {
+    "name": "Hoshiarpur",
+    "id": 132122
+  },
+  {
+    "name": "Ishanpur",
+    "id": 143764
+  },
+  {
+    "name": "Jagraon",
+    "id": 132192
+  },
+  {
+    "name": "Jaito",
+    "id": 132207
+  },
+  {
+    "name": "Jalalabad",
+    "id": 132223
+  },
+  {
+    "name": "Jalandhar",
+    "id": 132211
+  },
+  {
+    "name": "Jandiala",
+    "id": 132236
+  },
+  {
+    "name": "Jandiala Guru",
+    "id": 132237
+  },
+  {
+    "name": "Kalanaur",
+    "id": 132347
+  },
+  {
+    "name": "Kapurthala",
+    "id": 132392
+  },
+  {
+    "name": "Kartarpur",
+    "id": 132408
+  },
+  {
+    "name": "Khamanon",
+    "id": 132465
+  },
+  {
+    "name": "Khanna",
+    "id": 132469
+  },
+  {
+    "name": "Kharar",
+    "id": 132472
+  },
+  {
+    "name": "Khemkaran",
+    "id": 132491
+  },
+  {
+    "name": "Kot Isa Khan",
+    "id": 132591
+  },
+  {
+    "name": "Kotkapura",
+    "id": 132600
+  },
+  {
+    "name": "Laungowal",
+    "id": 132760
+  },
+  {
+    "name": "Ludhiana",
+    "id": 132785
+  },
+  {
+    "name": "Machhiwara",
+    "id": 133056
+  },
+  {
+    "name": "Majitha",
+    "id": 132861
+  },
+  {
+    "name": "Makhu",
+    "id": 132862
+  },
+  {
+    "name": "Malaut",
+    "id": 132867
+  },
+  {
+    "name": "Malerkotla",
+    "id": 133066
+  },
+  {
+    "name": "Mansa",
+    "id": 133082
+  },
+  {
+    "name": "Maur Mandi",
+    "id": 132948
+  },
+  {
+    "name": "Moga",
+    "id": 132979
+  },
+  {
+    "name": "Mohali",
+    "id": 132980
+  },
+  {
+    "name": "Morinda",
+    "id": 132996
+  },
+  {
+    "name": "Mukerian",
+    "id": 133017
+  },
+  {
+    "name": "Nabha",
+    "id": 133250
+  },
+  {
+    "name": "Nakodar",
+    "id": 133128
+  },
+  {
+    "name": "Nangal",
+    "id": 133147
+  },
+  {
+    "name": "Nawanshahr",
+    "id": 133190
+  },
+  {
+    "name": "Nurmahal",
+    "id": 133291
+  },
+  {
+    "name": "Nurpur Kalan",
+    "id": 133293
+  },
+  {
+    "name": "Pathankot",
+    "id": 133382
+  },
+  {
+    "name": "Patiala",
+    "id": 133384
+  },
+  {
+    "name": "Patti",
+    "id": 133390
+  },
+  {
+    "name": "Phagwara",
+    "id": 133431
+  },
+  {
+    "name": "Phillaur",
+    "id": 133439
+  },
+  {
+    "name": "Qadian",
+    "id": 133575
+  },
+  {
+    "name": "Rahon",
+    "id": 133662
+  },
+  {
+    "name": "Raikot",
+    "id": 133665
+  },
+  {
+    "name": "Rajasansi",
+    "id": 133670
+  },
+  {
+    "name": "Rajpura",
+    "id": 133681
+  },
+  {
+    "name": "Ram Das",
+    "id": 133690
+  },
+  {
+    "name": "Rampura",
+    "id": 133708
+  },
+  {
+    "name": "Rupnagar",
+    "id": 133654
+  },
+  {
+    "name": "Samrala",
+    "id": 133772
+  },
+  {
+    "name": "Sanaur",
+    "id": 133776
+  },
+  {
+    "name": "Sangrur",
+    "id": 133785
+  },
+  {
+    "name": "Sardulgarh",
+    "id": 133804
+  },
+  {
+    "name": "Shahid Bhagat Singh Nagar",
+    "id": 133854
+  },
+  {
+    "name": "Shahkot",
+    "id": 133897
+  },
+  {
+    "name": "Sham Churasi",
+    "id": 133911
+  },
+  {
+    "name": "Sirhind-Fategarh",
+    "id": 133955
+  },
+  {
+    "name": "Sri Muktsar Sahib",
+    "id": 133019
+  },
+  {
+    "name": "Sultanpur Lodhi",
+    "id": 134037
+  },
+  {
+    "name": "Sunam",
+    "id": 134048
+  },
+  {
+    "name": "Talwandi Bhai",
+    "id": 134105
+  },
+  {
+    "name": "Talwara",
+    "id": 134106
+  },
+  {
+    "name": "Tarn Taran Sahib",
+    "id": 134118
+  },
+  {
+    "name": "Zira",
+    "id": 134443
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Akaltara",
+    "id": 57619
+  },
+  {
+    "name": "Ambagarh Chauki",
+    "id": 57672
+  },
+  {
+    "name": "Ambikapur",
+    "id": 57670
+  },
+  {
+    "name": "Arang",
+    "id": 57728
+  },
+  {
+    "name": "Baikunthpur",
+    "id": 57812
+  },
+  {
+    "name": "Balod",
+    "id": 57830
+  },
+  {
+    "name": "Baloda",
+    "id": 57831
+  },
+  {
+    "name": "Baloda Bazar",
+    "id": 57832
+  },
+  {
+    "name": "Basna",
+    "id": 57898
+  },
+  {
+    "name": "Bastar",
+    "id": 57900
+  },
+  {
+    "name": "Bemetara",
+    "id": 57931
+  },
+  {
+    "name": "Bhanpuri",
+    "id": 58013
+  },
+  {
+    "name": "Bhatapara",
+    "id": 58015
+  },
+  {
+    "name": "Bhatgaon",
+    "id": 57969
+  },
+  {
+    "name": "Bhilai",
+    "id": 57981
+  },
+  {
+    "name": "Bijapur",
+    "id": 58032
+  },
+  {
+    "name": "Bilaspur",
+    "id": 58055
+  },
+  {
+    "name": "Champa",
+    "id": 131593
+  },
+  {
+    "name": "Chhuikhadan",
+    "id": 131538
+  },
+  {
+    "name": "Dantewada",
+    "id": 153519
+  },
+  {
+    "name": "Deori",
+    "id": 131690
+  },
+  {
+    "name": "Dhamtari",
+    "id": 131712
+  },
+  {
+    "name": "Dongargaon",
+    "id": 131787
+  },
+  {
+    "name": "Dongargarh",
+    "id": 131788
+  },
+  {
+    "name": "Durg",
+    "id": 131801
+  },
+  {
+    "name": "Gandai",
+    "id": 131897
+  },
+  {
+    "name": "Gariaband",
+    "id": 131926
+  },
+  {
+    "name": "Gaurela",
+    "id": 131927
+  },
+  {
+    "name": "Gharghoda",
+    "id": 131938
+  },
+  {
+    "name": "Gidam",
+    "id": 132048
+  },
+  {
+    "name": "Jagdalpur",
+    "id": 132186
+  },
+  {
+    "name": "Janjgir",
+    "id": 132312
+  },
+  {
+    "name": "Janjgir-Champa",
+    "id": 132240
+  },
+  {
+    "name": "Jashpur",
+    "id": 132244
+  },
+  {
+    "name": "Jashpurnagar",
+    "id": 132245
+  },
+  {
+    "name": "Junagarh",
+    "id": 132318
+  },
+  {
+    "name": "Kabeerdham",
+    "id": 132319
+  },
+  {
+    "name": "Kanker",
+    "id": 132704
+  },
+  {
+    "name": "Katghora",
+    "id": 132421
+  },
+  {
+    "name": "Kawardha",
+    "id": 132433
+  },
+  {
+    "name": "Khairagarh",
+    "id": 132456
+  },
+  {
+    "name": "Khamharia",
+    "id": 132463
+  },
+  {
+    "name": "Kharod",
+    "id": 132480
+  },
+  {
+    "name": "Kharsia",
+    "id": 132481
+  },
+  {
+    "name": "Kirandul",
+    "id": 132525
+  },
+  {
+    "name": "Kondagaon",
+    "id": 132565
+  },
+  {
+    "name": "Korba",
+    "id": 132581
+  },
+  {
+    "name": "Koria",
+    "id": 132583
+  },
+  {
+    "name": "Kota",
+    "id": 132612
+  },
+  {
+    "name": "Kotaparh",
+    "id": 132596
+  },
+  {
+    "name": "Kumhari",
+    "id": 132641
+  },
+  {
+    "name": "Kurud",
+    "id": 132661
+  },
+  {
+    "name": "Lormi",
+    "id": 132777
+  },
+  {
+    "name": "Mahasamund",
+    "id": 132827
+  },
+  {
+    "name": "Mungeli",
+    "id": 133031
+  },
+  {
+    "name": "Narayanpur",
+    "id": 133163
+  },
+  {
+    "name": "Narharpur",
+    "id": 133168
+  },
+  {
+    "name": "Pandaria",
+    "id": 133346
+  },
+  {
+    "name": "Pandatarai",
+    "id": 133540
+  },
+  {
+    "name": "Pasan",
+    "id": 133375
+  },
+  {
+    "name": "Patan",
+    "id": 133552
+  },
+  {
+    "name": "Pathalgaon",
+    "id": 133379
+  },
+  {
+    "name": "Pendra",
+    "id": 133405
+  },
+  {
+    "name": "Pithora",
+    "id": 133463
+  },
+  {
+    "name": "Raigarh",
+    "id": 133587
+  },
+  {
+    "name": "Raipur",
+    "id": 133590
+  },
+  {
+    "name": "Raj Nandgaon",
+    "id": 133668
+  },
+  {
+    "name": "Ramanuj Ganj",
+    "id": 133711
+  },
+  {
+    "name": "Ratanpur",
+    "id": 133616
+  },
+  {
+    "name": "Sakti",
+    "id": 133761
+  },
+  {
+    "name": "Saraipali",
+    "id": 133801
+  },
+  {
+    "name": "Sarangarh",
+    "id": 134077
+  },
+  {
+    "name": "Seorinarayan",
+    "id": 133845
+  },
+  {
+    "name": "Simga",
+    "id": 133940
+  },
+  {
+    "name": "Surguja",
+    "id": 134051
+  },
+  {
+    "name": "Takhatpur",
+    "id": 134099
+  },
+  {
+    "name": "Umarkot",
+    "id": 134273
+  },
+  {
+    "name": "Uttar Bastar Kanker",
+    "id": 134299
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "Achalpur",
+    "id": 57589
+  },
+  {
+    "name": "Adawad",
+    "id": 147667
+  },
+  {
+    "name": "Agar Panchaitan",
+    "id": 147668
+  },
+  {
+    "name": "Aheri",
+    "id": 147669
+  },
+  {
+    "name": "Ahmadpur",
+    "id": 57604
+  },
+  {
+    "name": "Ahmednagar",
+    "id": 147670
+  },
+  {
+    "name": "Airoli",
+    "id": 57609
+  },
+  {
+    "name": "Ajara",
+    "id": 57617
+  },
+  {
+    "name": "Akalkot",
+    "id": 57618
+  },
+  {
+    "name": "Akluj",
+    "id": 147672
+  },
+  {
+    "name": "Akola",
+    "id": 57627
+  },
+  {
+    "name": "Akolner",
+    "id": 147673
+  },
+  {
+    "name": "Akot",
+    "id": 57628
+  },
+  {
+    "name": "Akrani",
+    "id": 147674
+  },
+  {
+    "name": "Alandi",
+    "id": 57633
+  },
+  {
+    "name": "Ale",
+    "id": 147675
+  },
+  {
+    "name": "Alibag",
+    "id": 57652
+  },
+  {
+    "name": "Alkuti",
+    "id": 147676
+  },
+  {
+    "name": "Allapalli",
+    "id": 57642
+  },
+  {
+    "name": "Amalner",
+    "id": 57657
+  },
+  {
+    "name": "Amarnath",
+    "id": 57660
+  },
+  {
+    "name": "Ambad",
+    "id": 57665
+  },
+  {
+    "name": "Ambajogai",
+    "id": 57674
+  },
+  {
+    "name": "Ambegaon",
+    "id": 147678
+  },
+  {
+    "name": "Ambernath",
+    "id": 147677
+  },
+  {
+    "name": "Amgaon",
+    "id": 147679
+  },
+  {
+    "name": "Amravati",
+    "id": 57689
+  },
+  {
+    "name": "Andheri",
+    "id": 147680
+  },
+  {
+    "name": "Andura",
+    "id": 147681
+  },
+  {
+    "name": "Anjangaon",
+    "id": 57707
+  },
+  {
+    "name": "Anjarle",
+    "id": 147682
+  },
+  {
+    "name": "Anshing",
+    "id": 57716
+  },
+  {
+    "name": "Arag",
+    "id": 147683
+  },
+  {
+    "name": "Arangaon",
+    "id": 134461
+  },
+  {
+    "name": "Ardhapur",
+    "id": 147684
+  },
+  {
+    "name": "Argaon",
+    "id": 147685
+  },
+  {
+    "name": "Artist Village",
+    "id": 57741
+  },
+  {
+    "name": "Arvi",
+    "id": 134463
+  },
+  {
+    "name": "Ashta",
+    "id": 57751
+  },
+  {
+    "name": "Ashti",
+    "id": 57753
+  },
+  {
+    "name": "Asoda",
+    "id": 147686
+  },
+  {
+    "name": "Assaye",
+    "id": 147687
+  },
+  {
+    "name": "Astagaon",
+    "id": 147688
+  },
+  {
+    "name": "Aundh Satara",
+    "id": 147689
+  },
+  {
+    "name": "Aurangabad",
+    "id": 57765
+  },
+  {
+    "name": "Ausa",
+    "id": 57770
+  },
+  {
+    "name": "Badlapur",
+    "id": 57792
+  },
+  {
+    "name": "Badnapur",
+    "id": 147690
+  },
+  {
+    "name": "Badnera",
+    "id": 147691
+  },
+  {
+    "name": "Bagewadi",
+    "id": 147692
+  },
+  {
+    "name": "Balapur",
+    "id": 58121
+  },
+  {
+    "name": "Balapur Akola district",
+    "id": 147693
+  },
+  {
+    "name": "Ballalpur",
+    "id": 57829
+  },
+  {
+    "name": "Ballard Estate",
+    "id": 147694
+  },
+  {
+    "name": "Ballarpur",
+    "id": 147695
+  },
+  {
+    "name": "Banda Maharashtra",
+    "id": 147696
+  },
+  {
+    "name": "Bandra",
+    "id": 147697
+  },
+  {
+    "name": "Baner",
+    "id": 147698
+  },
+  {
+    "name": "Bankot",
+    "id": 147699
+  },
+  {
+    "name": "Baramati",
+    "id": 58146
+  },
+  {
+    "name": "Barsi",
+    "id": 58144
+  },
+  {
+    "name": "Basmat",
+    "id": 57897
+  },
+  {
+    "name": "Bavdhan",
+    "id": 147701
+  },
+  {
+    "name": "Bawanbir",
+    "id": 147702
+  },
+  {
+    "name": "Beed",
+    "id": 57912
+  },
+  {
+    "name": "Bhadgaon Maharashtra",
+    "id": 147703
+  },
+  {
+    "name": "Bhandara",
+    "id": 57961
+  },
+  {
+    "name": "Bhandardara",
+    "id": 147704
+  },
+  {
+    "name": "Bhandup",
+    "id": 147705
+  },
+  {
+    "name": "Bhayandar",
+    "id": 57978
+  },
+  {
+    "name": "Bhigvan",
+    "id": 57979
+  },
+  {
+    "name": "Bhiwandi",
+    "id": 57987
+  },
+  {
+    "name": "Bhiwapur",
+    "id": 147706
+  },
+  {
+    "name": "Bhokar",
+    "id": 147707
+  },
+  {
+    "name": "Bhokardan",
+    "id": 147708
+  },
+  {
+    "name": "Bhoom",
+    "id": 58024
+  },
+  {
+    "name": "Bhor",
+    "id": 57997
+  },
+  {
+    "name": "Bhudgaon",
+    "id": 58001
+  },
+  {
+    "name": "Bhugaon",
+    "id": 147710
+  },
+  {
+    "name": "Bhusaval",
+    "id": 58005
+  },
+  {
+    "name": "Bijur",
+    "id": 147712
+  },
+  {
+    "name": "Bilashi",
+    "id": 147713
+  },
+  {
+    "name": "Biloli",
+    "id": 58047
+  },
+  {
+    "name": "Boisar",
+    "id": 58074
+  },
+  {
+    "name": "Borgaon Manju",
+    "id": 147714
+  },
+  {
+    "name": "Borivali",
+    "id": 147715
+  },
+  {
+    "name": "Brahmapuri",
+    "id": 147716
+  },
+  {
+    "name": "Breach Candy",
+    "id": 147717
+  },
+  {
+    "name": "Buldana",
+    "id": 58094
+  },
+  {
+    "name": "Byculla",
+    "id": 147719
+  },
+  {
+    "name": "Chakan",
+    "id": 131589
+  },
+  {
+    "name": "Chakur",
+    "id": 147720
+  },
+  {
+    "name": "Chalisgaon",
+    "id": 131592
+  },
+  {
+    "name": "Chanda",
+    "id": 131596
+  },
+  {
+    "name": "Chandgad",
+    "id": 147721
+  },
+  {
+    "name": "Chandor",
+    "id": 131599
+  },
+  {
+    "name": "Chandrapur",
+    "id": 58192
+  },
+  {
+    "name": "Chandur",
+    "id": 131601
+  },
+  {
+    "name": "Chandur Bazar",
+    "id": 131603
+  },
+  {
+    "name": "Chausala",
+    "id": 147722
+  },
+  {
+    "name": "Chembur",
+    "id": 147723
+  },
+  {
+    "name": "Chicholi",
+    "id": 131544
+  },
+  {
+    "name": "Chichondi Patil",
+    "id": 147724
+  },
+  {
+    "name": "Chikhli (Buldhana)",
+    "id": 131549
+  },
+  {
+    "name": "Chikhli (Jalna)",
+    "id": 147725
+  },
+  {
+    "name": "Chimur",
+    "id": 147726
+  },
+  {
+    "name": "Chinchani",
+    "id": 131558
+  },
+  {
+    "name": "Chinchpokli",
+    "id": 147727
+  },
+  {
+    "name": "Chiplun",
+    "id": 131567
+  },
+  {
+    "name": "Chopda",
+    "id": 131580
+  },
+  {
+    "name": "Colaba",
+    "id": 147728
+  },
+  {
+    "name": "Dabhol",
+    "id": 131805
+  },
+  {
+    "name": "Daddi",
+    "id": 147729
+  },
+  {
+    "name": "Dahanu",
+    "id": 131807
+  },
+  {
+    "name": "Dahivel",
+    "id": 147730
+  },
+  {
+    "name": "Dapoli",
+    "id": 147731
+  },
+  {
+    "name": "Darwha",
+    "id": 131810
+  },
+  {
+    "name": "Daryapur",
+    "id": 131659
+  },
+  {
+    "name": "Dattapur",
+    "id": 131663
+  },
+  {
+    "name": "Daulatabad",
+    "id": 131666
+  },
+  {
+    "name": "Daund",
+    "id": 131667
+  },
+  {
+    "name": "Deccan Gymkhana",
+    "id": 147732
+  },
+  {
+    "name": "Deglur",
+    "id": 147733
+  },
+  {
+    "name": "Dehu",
+    "id": 131678
+  },
+  {
+    "name": "Deolali",
+    "id": 131688
+  },
+  {
+    "name": "Deolapar",
+    "id": 147734
+  },
+  {
+    "name": "Deoli",
+    "id": 131686
+  },
+  {
+    "name": "Deoni",
+    "id": 147735
+  },
+  {
+    "name": "Deulgaon Raja",
+    "id": 131709
+  },
+  {
+    "name": "Devrukh",
+    "id": 147736
+  },
+  {
+    "name": "Dharangaon",
+    "id": 131722
+  },
+  {
+    "name": "Dharavi",
+    "id": 147737
+  },
+  {
+    "name": "Dharmabad",
+    "id": 131728
+  },
+  {
+    "name": "Dharur",
+    "id": 131758
+  },
+  {
+    "name": "Dhawalpuri",
+    "id": 147738
+  },
+  {
+    "name": "Dhule",
+    "id": 131746
+  },
+  {
+    "name": "Dhulia",
+    "id": 131759
+  },
+  {
+    "name": "Dighori",
+    "id": 147739
+  },
+  {
+    "name": "Diglur",
+    "id": 131815
+  },
+  {
+    "name": "Digras",
+    "id": 131768
+  },
+  {
+    "name": "Dindori Maharashtra",
+    "id": 147740
+  },
+  {
+    "name": "Diveagar",
+    "id": 147741
+  },
+  {
+    "name": "Dombivli",
+    "id": 131785
+  },
+  {
+    "name": "Dondaicha",
+    "id": 131786
+  },
+  {
+    "name": "Dongri",
+    "id": 147742
+  },
+  {
+    "name": "Dudhani",
+    "id": 131792
+  },
+  {
+    "name": "Durgapur",
+    "id": 131802
+  },
+  {
+    "name": "Durgapur Chandrapur",
+    "id": 147743
+  },
+  {
+    "name": "Erandol",
+    "id": 131838
+  },
+  {
+    "name": "Faizpur",
+    "id": 131850
+  },
+  {
+    "name": "Fort",
+    "id": 147744
+  },
+  {
+    "name": "Gadchiroli",
+    "id": 131886
+  },
+  {
+    "name": "Gadhinglaj",
+    "id": 131889
+  },
+  {
+    "name": "Gangakher",
+    "id": 131907
+  },
+  {
+    "name": "Gangapur",
+    "id": 131910
+  },
+  {
+    "name": "Ganpatipule",
+    "id": 147745
+  },
+  {
+    "name": "Gevrai",
+    "id": 131934
+  },
+  {
+    "name": "Ghargaon",
+    "id": 147746
+  },
+  {
+    "name": "Ghatanji",
+    "id": 131951
+  },
+  {
+    "name": "Ghatkopar",
+    "id": 147747
+  },
+  {
+    "name": "Ghoti Budrukh",
+    "id": 131947
+  },
+  {
+    "name": "Ghugus",
+    "id": 131948
+  },
+  {
+    "name": "Girgaon",
+    "id": 147748
+  },
+  {
+    "name": "Gondia",
+    "id": 147749
+  },
+  {
+    "name": "Gorai",
+    "id": 147750
+  },
+  {
+    "name": "Goregaon",
+    "id": 131994
+  },
+  {
+    "name": "Guhagar",
+    "id": 132014
+  },
+  {
+    "name": "Hadapsar Pune",
+    "id": 147751
+  },
+  {
+    "name": "Hadgaon",
+    "id": 132054
+  },
+  {
+    "name": "Halkarni",
+    "id": 147752
+  },
+  {
+    "name": "Harangul",
+    "id": 147753
+  },
+  {
+    "name": "Harnai",
+    "id": 132078
+  },
+  {
+    "name": "Helwak",
+    "id": 147754
+  },
+  {
+    "name": "Hinganghat",
+    "id": 132100
+  },
+  {
+    "name": "Hingoli",
+    "id": 132101
+  },
+  {
+    "name": "Hirapur",
+    "id": 147755
+  },
+  {
+    "name": "Hirapur Hamesha",
+    "id": 132149
+  },
+  {
+    "name": "Hotgi",
+    "id": 147756
+  },
+  {
+    "name": "Ichalkaranji",
+    "id": 132150
+  },
+  {
+    "name": "Igatpuri",
+    "id": 132155
+  },
+  {
+    "name": "Indapur",
+    "id": 132168
+  },
+  {
+    "name": "Jaisingpur",
+    "id": 132205
+  },
+  {
+    "name": "Jaitapur",
+    "id": 147757
+  },
+  {
+    "name": "Jakhangaon",
+    "id": 147758
+  },
+  {
+    "name": "Jalgaon",
+    "id": 132214
+  },
+  {
+    "name": "Jalgaon Jamod",
+    "id": 132215
+  },
+  {
+    "name": "Jalkot",
+    "id": 147759
+  },
+  {
+    "name": "Jalna",
+    "id": 132216
+  },
+  {
+    "name": "Jamkhed",
+    "id": 147760
+  },
+  {
+    "name": "Jamod",
+    "id": 147761
+  },
+  {
+    "name": "Janephal",
+    "id": 147762
+  },
+  {
+    "name": "Jaoli",
+    "id": 147763
+  },
+  {
+    "name": "Jat Sangli",
+    "id": 147764
+  },
+  {
+    "name": "Jategaon",
+    "id": 147765
+  },
+  {
+    "name": "Jawhar",
+    "id": 132254
+  },
+  {
+    "name": "Jaysingpur",
+    "id": 147766
+  },
+  {
+    "name": "Jejuri",
+    "id": 132260
+  },
+  {
+    "name": "Jintur",
+    "id": 132282
+  },
+  {
+    "name": "Jogeshwari",
+    "id": 147767
+  },
+  {
+    "name": "Juhu",
+    "id": 147768
+  },
+  {
+    "name": "Junnar",
+    "id": 132301
+  },
+  {
+    "name": "Kachurwahi",
+    "id": 147769
+  },
+  {
+    "name": "Kadegaon",
+    "id": 147770
+  },
+  {
+    "name": "Kadus",
+    "id": 147771
+  },
+  {
+    "name": "Kagal",
+    "id": 132677
+  },
+  {
+    "name": "Kaij",
+    "id": 147772
+  },
+  {
+    "name": "Kalamb",
+    "id": 132345
+  },
+  {
+    "name": "Kalamb Osmanabad",
+    "id": 147773
+  },
+  {
+    "name": "Kalamboli",
+    "id": 147774
+  },
+  {
+    "name": "Kalamnuri",
+    "id": 132346
+  },
+  {
+    "name": "Kalas",
+    "id": 132348
+  },
+  {
+    "name": "Kali(DK)",
+    "id": 147775
+  },
+  {
+    "name": "Kalmeshwar",
+    "id": 132355
+  },
+  {
+    "name": "Kalundri",
+    "id": 132684
+  },
+  {
+    "name": "Kalyan",
+    "id": 132359
+  },
+  {
+    "name": "Kalyani Nagar",
+    "id": 147776
+  },
+  {
+    "name": "Kamargaon",
+    "id": 147777
+  },
+  {
+    "name": "Kamatgi",
+    "id": 147778
+  },
+  {
+    "name": "Kamptee",
+    "id": 147779
+  },
+  {
+    "name": "Kandri",
+    "id": 132700
+  },
+  {
+    "name": "Kankauli",
+    "id": 132375
+  },
+  {
+    "name": "Kankavli",
+    "id": 147780
+  },
+  {
+    "name": "Kannad",
+    "id": 132377
+  },
+  {
+    "name": "Karad",
+    "id": 132412
+  },
+  {
+    "name": "Karajagi",
+    "id": 147781
+  },
+  {
+    "name": "Karanja",
+    "id": 132717
+  },
+  {
+    "name": "Karanja Lad",
+    "id": 147782
+  },
+  {
+    "name": "Karjat",
+    "id": 132403
+  },
+  {
+    "name": "Karkamb",
+    "id": 147783
+  },
+  {
+    "name": "Karmala",
+    "id": 132404
+  },
+  {
+    "name": "Kasara",
+    "id": 147784
+  },
+  {
+    "name": "Kasoda",
+    "id": 147785
+  },
+  {
+    "name": "Kati",
+    "id": 132724
+  },
+  {
+    "name": "Katol",
+    "id": 132725
+  },
+  {
+    "name": "Katral",
+    "id": 147786
+  },
+  {
+    "name": "Khadki",
+    "id": 132450
+  },
+  {
+    "name": "Khalapur",
+    "id": 147787
+  },
+  {
+    "name": "Khallar",
+    "id": 147788
+  },
+  {
+    "name": "Khamgaon",
+    "id": 132513
+  },
+  {
+    "name": "Khanapur",
+    "id": 147789
+  },
+  {
+    "name": "Khandala",
+    "id": 147790
+  },
+  {
+    "name": "Khangaon",
+    "id": 147791
+  },
+  {
+    "name": "Khapa",
+    "id": 132517
+  },
+  {
+    "name": "Kharakvasla",
+    "id": 132471
+  },
+  {
+    "name": "Kharda",
+    "id": 147792
+  },
+  {
+    "name": "Kharghar",
+    "id": 147793
+  },
+  {
+    "name": "Kharsundi",
+    "id": 147794
+  },
+  {
+    "name": "Khed",
+    "id": 132487
+  },
+  {
+    "name": "Khetia",
+    "id": 132495
+  },
+  {
+    "name": "Khoni",
+    "id": 147796
+  },
+  {
+    "name": "Khopoli",
+    "id": 132500
+  },
+  {
+    "name": "Khuldabad",
+    "id": 132505
+  },
+  {
+    "name": "Kinwat",
+    "id": 132524
+  },
+  {
+    "name": "Kodoli",
+    "id": 132543
+  },
+  {
+    "name": "Kolhapur",
+    "id": 132556
+  },
+  {
+    "name": "Kondalwadi",
+    "id": 132566
+  },
+  {
+    "name": "Kondhali",
+    "id": 147797
+  },
+  {
+    "name": "Kopar Khairane",
+    "id": 147798
+  },
+  {
+    "name": "Kopargaon",
+    "id": 132572
+  },
+  {
+    "name": "Kopela",
+    "id": 147799
+  },
+  {
+    "name": "Koradi",
+    "id": 132586
+  },
+  {
+    "name": "Koregaon",
+    "id": 132582
+  },
+  {
+    "name": "Koynanagar",
+    "id": 132618
+  },
+  {
+    "name": "Kudal",
+    "id": 132629
+  },
+  {
+    "name": "Kuhi",
+    "id": 147800
+  },
+  {
+    "name": "Kurandvad",
+    "id": 132656
+  },
+  {
+    "name": "Kurankhed",
+    "id": 147801
+  },
+  {
+    "name": "Kurduvadi",
+    "id": 132657
+  },
+  {
+    "name": "Kusumba",
+    "id": 147802
+  },
+  {
+    "name": "Lakhandur",
+    "id": 147803
+  },
+  {
+    "name": "Lanja",
+    "id": 132799
+  },
+  {
+    "name": "Lasalgaon",
+    "id": 132800
+  },
+  {
+    "name": "Latur",
+    "id": 132759
+  },
+  {
+    "name": "Lavasa",
+    "id": 147804
+  },
+  {
+    "name": "Lohogaon",
+    "id": 132770
+  },
+  {
+    "name": "Lonar",
+    "id": 132776
+  },
+  {
+    "name": "Lonavla",
+    "id": 132773
+  },
+  {
+    "name": "Mahabaleshwar",
+    "id": 132844
+  },
+  {
+    "name": "Mahad",
+    "id": 132846
+  },
+  {
+    "name": "Mahape",
+    "id": 147805
+  },
+  {
+    "name": "Mahim",
+    "id": 147806
+  },
+  {
+    "name": "Maindargi",
+    "id": 132856
+  },
+  {
+    "name": "Majalgaon",
+    "id": 133062
+  },
+  {
+    "name": "Makhjan",
+    "id": 133063
+  },
+  {
+    "name": "Malabar Hill",
+    "id": 147807
+  },
+  {
+    "name": "Malad",
+    "id": 147808
+  },
+  {
+    "name": "Malegaon",
+    "id": 133065
+  },
+  {
+    "name": "Malkapur",
+    "id": 132872
+  },
+  {
+    "name": "Malvan",
+    "id": 133070
+  },
+  {
+    "name": "Manchar",
+    "id": 132886
+  },
+  {
+    "name": "Mandangad",
+    "id": 147809
+  },
+  {
+    "name": "Mandhal",
+    "id": 147810
+  },
+  {
+    "name": "Mandwa",
+    "id": 147811
+  },
+  {
+    "name": "Mangaon",
+    "id": 147812
+  },
+  {
+    "name": "Mangrul Pir",
+    "id": 132909
+  },
+  {
+    "name": "Manjlegaon",
+    "id": 147813
+  },
+  {
+    "name": "Mankeshwar",
+    "id": 147814
+  },
+  {
+    "name": "Mankhurd",
+    "id": 147815
+  },
+  {
+    "name": "Manmad",
+    "id": 132918
+  },
+  {
+    "name": "Manor",
+    "id": 132924
+  },
+  {
+    "name": "Mansar",
+    "id": 132926
+  },
+  {
+    "name": "Manwat",
+    "id": 133084
+  },
+  {
+    "name": "Maregaon",
+    "id": 147817
+  },
+  {
+    "name": "Mastiholi",
+    "id": 147818
+  },
+  {
+    "name": "Masur India",
+    "id": 147819
+  },
+  {
+    "name": "Matheran",
+    "id": 133090
+  },
+  {
+    "name": "Matunga",
+    "id": 147820
+  },
+  {
+    "name": "Mazagaon",
+    "id": 147821
+  },
+  {
+    "name": "Mehekar",
+    "id": 132961
+  },
+  {
+    "name": "Mehergaon",
+    "id": 147822
+  },
+  {
+    "name": "Mehkar",
+    "id": 147823
+  },
+  {
+    "name": "Mhasla",
+    "id": 132971
+  },
+  {
+    "name": "Mhasvad",
+    "id": 132972
+  },
+  {
+    "name": "Miraj",
+    "id": 147824
+  },
+  {
+    "name": "Mohadi",
+    "id": 147825
+  },
+  {
+    "name": "Mohol",
+    "id": 147826
+  },
+  {
+    "name": "Mohpa",
+    "id": 132985
+  },
+  {
+    "name": "Mokhada taluka",
+    "id": 147827
+  },
+  {
+    "name": "Mora Maharashtra",
+    "id": 147828
+  },
+  {
+    "name": "Moram",
+    "id": 132992
+  },
+  {
+    "name": "Morsi",
+    "id": 132999
+  },
+  {
+    "name": "Mowad",
+    "id": 133006
+  },
+  {
+    "name": "Mudkhed",
+    "id": 133012
+  },
+  {
+    "name": "Mukher",
+    "id": 133018
+  },
+  {
+    "name": "Mul",
+    "id": 133099
+  },
+  {
+    "name": "Mulher",
+    "id": 147829
+  },
+  {
+    "name": "Mulund",
+    "id": 147830
+  },
+  {
+    "name": "Mumbai",
+    "id": 133024
+  },
+  {
+    "name": "Mumbai Suburban",
+    "id": 133025
+  },
+  {
+    "name": "Murbad",
+    "id": 133035
+  },
+  {
+    "name": "Murgud",
+    "id": 133036
+  },
+  {
+    "name": "Murtajapur",
+    "id": 133039
+  },
+  {
+    "name": "Murud (Raigad)",
+    "id": 133040
+  },
+  {
+    "name": "Murud (Ratnagiri)",
+    "id": 147831
+  },
+  {
+    "name": "Murum",
+    "id": 147832
+  },
+  {
+    "name": "Nadgaon",
+    "id": 147833
+  },
+  {
+    "name": "Nagapur",
+    "id": 147834
+  },
+  {
+    "name": "Nagothana",
+    "id": 133260
+  },
+  {
+    "name": "Nagpur",
+    "id": 133116
+  },
+  {
+    "name": "Nagpur Division",
+    "id": 133117
+  },
+  {
+    "name": "Nala Sopara",
+    "id": 147835
+  },
+  {
+    "name": "Naldurg",
+    "id": 133131
+  },
+  {
+    "name": "Nalegaon",
+    "id": 147836
+  },
+  {
+    "name": "Nampur",
+    "id": 147837
+  },
+  {
+    "name": "Nanded",
+    "id": 133141
+  },
+  {
+    "name": "Nandgaon",
+    "id": 133267
+  },
+  {
+    "name": "Nandnee",
+    "id": 147838
+  },
+  {
+    "name": "Nandura",
+    "id": 147839
+  },
+  {
+    "name": "Nandura Buzurg",
+    "id": 133268
+  },
+  {
+    "name": "Nandurbar",
+    "id": 133145
+  },
+  {
+    "name": "Narayangaon",
+    "id": 147840
+  },
+  {
+    "name": "Nardana",
+    "id": 147841
+  },
+  {
+    "name": "Nariman Point",
+    "id": 147842
+  },
+  {
+    "name": "Narkhed",
+    "id": 147843
+  },
+  {
+    "name": "Nashik",
+    "id": 133177
+  },
+  {
+    "name": "Nashik Division",
+    "id": 133178
+  },
+  {
+    "name": "Navapur",
+    "id": 147844
+  },
+  {
+    "name": "Navi Mumbai",
+    "id": 133186
+  },
+  {
+    "name": "Neral",
+    "id": 133208
+  },
+  {
+    "name": "Nerur",
+    "id": 147845
+  },
+  {
+    "name": "Nevasa",
+    "id": 147846
+  },
+  {
+    "name": "Nighoj",
+    "id": 147847
+  },
+  {
+    "name": "Nilanga",
+    "id": 133217
+  },
+  {
+    "name": "Nipani",
+    "id": 133220
+  },
+  {
+    "name": "Niphad",
+    "id": 147848
+  },
+  {
+    "name": "Nira Narsingpur",
+    "id": 147849
+  },
+  {
+    "name": "Osmanabad",
+    "id": 133305
+  },
+  {
+    "name": "Ozar",
+    "id": 133307
+  },
+  {
+    "name": "Pabal",
+    "id": 147850
+  },
+  {
+    "name": "Pachora",
+    "id": 133520
+  },
+  {
+    "name": "Pahur Maharashtra",
+    "id": 147851
+  },
+  {
+    "name": "Paithan",
+    "id": 133319
+  },
+  {
+    "name": "Palghar",
+    "id": 133527
+  },
+  {
+    "name": "Pali Raigad",
+    "id": 147852
+  },
+  {
+    "name": "Palso",
+    "id": 147853
+  },
+  {
+    "name": "Panchgani",
+    "id": 133537
+  },
+  {
+    "name": "Pandharpur",
+    "id": 133347
+  },
+  {
+    "name": "Pandhurli",
+    "id": 147854
+  },
+  {
+    "name": "Panhala",
+    "id": 133349
+  },
+  {
+    "name": "Panvel",
+    "id": 133353
+  },
+  {
+    "name": "Parbhani",
+    "id": 133358
+  },
+  {
+    "name": "Parel",
+    "id": 147855
+  },
+  {
+    "name": "Parli Vaijnath",
+    "id": 133360
+  },
+  {
+    "name": "Parner",
+    "id": 147856
+  },
+  {
+    "name": "Parola",
+    "id": 133364
+  },
+  {
+    "name": "Parseoni",
+    "id": 147857
+  },
+  {
+    "name": "Partur",
+    "id": 133367
+  },
+  {
+    "name": "Patan",
+    "id": 133554
+  },
+  {
+    "name": "Pathardi",
+    "id": 133556
+  },
+  {
+    "name": "Pathri",
+    "id": 133558
+  },
+  {
+    "name": "Patur",
+    "id": 133559
+  },
+  {
+    "name": "Paturda",
+    "id": 147858
+  },
+  {
+    "name": "Paud",
+    "id": 147859
+  },
+  {
+    "name": "Pauni",
+    "id": 147860
+  },
+  {
+    "name": "Pawni",
+    "id": 133397
+  },
+  {
+    "name": "Pedgaon",
+    "id": 147861
+  },
+  {
+    "name": "Peint",
+    "id": 147862
+  },
+  {
+    "name": "Pen",
+    "id": 133404
+  },
+  {
+    "name": "Phaltan",
+    "id": 133434
+  },
+  {
+    "name": "Phulambri",
+    "id": 147863
+  },
+  {
+    "name": "Piliv",
+    "id": 147864
+  },
+  {
+    "name": "Pimpalgaon Baswant",
+    "id": 147865
+  },
+  {
+    "name": "Pimpalgaon Raja",
+    "id": 147866
+  },
+  {
+    "name": "Pimpri",
+    "id": 133449
+  },
+  {
+    "name": "Pimpri-Chinchwad",
+    "id": 147867
+  },
+  {
+    "name": "Pipri",
+    "id": 133564
+  },
+  {
+    "name": "Powai",
+    "id": 133484
+  },
+  {
+    "name": "Prabhadevi",
+    "id": 147868
+  },
+  {
+    "name": "Prakasha",
+    "id": 147869
+  },
+  {
+    "name": "Pulgaon",
+    "id": 133496
+  },
+  {
+    "name": "Pune",
+    "id": 133504
+  },
+  {
+    "name": "Pune Division",
+    "id": 133505
+  },
+  {
+    "name": "Puntamba",
+    "id": 147870
+  },
+  {
+    "name": "Pural",
+    "id": 147871
+  },
+  {
+    "name": "Purna",
+    "id": 133571
+  },
+  {
+    "name": "Pusad",
+    "id": 133515
+  },
+  {
+    "name": "Radhanagari",
+    "id": 147872
+  },
+  {
+    "name": "Rahata",
+    "id": 147873
+  },
+  {
+    "name": "Rahimatpur",
+    "id": 133583
+  },
+  {
+    "name": "Rahuri",
+    "id": 133663
+  },
+  {
+    "name": "Raigarh",
+    "id": 133588
+  },
+  {
+    "name": "Raireshwar",
+    "id": 147874
+  },
+  {
+    "name": "Rajapur",
+    "id": 133687
+  },
+  {
+    "name": "Rajgurunagar",
+    "id": 133677
+  },
+  {
+    "name": "Rajur",
+    "id": 133685
+  },
+  {
+    "name": "Rajura",
+    "id": 133689
+  },
+  {
+    "name": "Ralegaon",
+    "id": 147875
+  },
+  {
+    "name": "Ramewadi",
+    "id": 147876
+  },
+  {
+    "name": "Ramtek",
+    "id": 133710
+  },
+  {
+    "name": "Ratnagiri",
+    "id": 133619
+  },
+  {
+    "name": "Raver",
+    "id": 133724
+  },
+  {
+    "name": "Renapur",
+    "id": 147877
+  },
+  {
+    "name": "Renavi",
+    "id": 147878
+  },
+  {
+    "name": "Revadanda",
+    "id": 133631
+  },
+  {
+    "name": "Revdanda",
+    "id": 147879
+  },
+  {
+    "name": "Risod",
+    "id": 133639
+  },
+  {
+    "name": "Roha",
+    "id": 133644
+  },
+  {
+    "name": "Sailu",
+    "id": 147880
+  },
+  {
+    "name": "Sakol",
+    "id": 147881
+  },
+  {
+    "name": "Sakoli",
+    "id": 147882
+  },
+  {
+    "name": "Sakri",
+    "id": 147883
+  },
+  {
+    "name": "Samudrapur",
+    "id": 147884
+  },
+  {
+    "name": "Sangameshwar",
+    "id": 147885
+  },
+  {
+    "name": "Sangamner",
+    "id": 133780
+  },
+  {
+    "name": "Sangli",
+    "id": 133782
+  },
+  {
+    "name": "Sangola",
+    "id": 134074
+  },
+  {
+    "name": "Sangrampur Maharashtra",
+    "id": 147887
+  },
+  {
+    "name": "Saoli",
+    "id": 147888
+  },
+  {
+    "name": "Saoner",
+    "id": 133797
+  },
+  {
+    "name": "Sarangkheda",
+    "id": 147889
+  },
+  {
+    "name": "Saswad",
+    "id": 147890
+  },
+  {
+    "name": "Satana",
+    "id": 133825
+  },
+  {
+    "name": "Satara",
+    "id": 133815
+  },
+  {
+    "name": "Satara Division",
+    "id": 133816
+  },
+  {
+    "name": "Satpati",
+    "id": 147891
+  },
+  {
+    "name": "Savantvadi",
+    "id": 134082
+  },
+  {
+    "name": "Savda",
+    "id": 134083
+  },
+  {
+    "name": "Savlaj",
+    "id": 147892
+  },
+  {
+    "name": "Sawantvadi",
+    "id": 147893
+  },
+  {
+    "name": "Selu",
+    "id": 133836
+  },
+  {
+    "name": "Sevagram",
+    "id": 147894
+  },
+  {
+    "name": "Sewri",
+    "id": 147895
+  },
+  {
+    "name": "Shahada",
+    "id": 133908
+  },
+  {
+    "name": "Shahapur",
+    "id": 133909
+  },
+  {
+    "name": "Shedbal",
+    "id": 147896
+  },
+  {
+    "name": "Shegaon",
+    "id": 133857
+  },
+  {
+    "name": "Shevgaon",
+    "id": 147897
+  },
+  {
+    "name": "Shikrapur",
+    "id": 147898
+  },
+  {
+    "name": "Shiraguppi",
+    "id": 133873
+  },
+  {
+    "name": "Shirala",
+    "id": 147899
+  },
+  {
+    "name": "Shirdi",
+    "id": 133874
+  },
+  {
+    "name": "Shirgaon",
+    "id": 133875
+  },
+  {
+    "name": "Shirol",
+    "id": 147900
+  },
+  {
+    "name": "Shirpur",
+    "id": 133877
+  },
+  {
+    "name": "Shirud",
+    "id": 147901
+  },
+  {
+    "name": "Shirwal",
+    "id": 133878
+  },
+  {
+    "name": "Shivaji Nagar",
+    "id": 133879
+  },
+  {
+    "name": "Shrigonda",
+    "id": 133886
+  },
+  {
+    "name": "Sillod",
+    "id": 133936
+  },
+  {
+    "name": "Sindewahi",
+    "id": 147902
+  },
+  {
+    "name": "Sindhudurg",
+    "id": 133943
+  },
+  {
+    "name": "Sindi",
+    "id": 133944
+  },
+  {
+    "name": "Sindkheda",
+    "id": 147903
+  },
+  {
+    "name": "Sinnar",
+    "id": 133953
+  },
+  {
+    "name": "Sion Mumbai",
+    "id": 147904
+  },
+  {
+    "name": "Sironcha",
+    "id": 147905
+  },
+  {
+    "name": "Sirur",
+    "id": 133970
+  },
+  {
+    "name": "Sivala East Godavari district",
+    "id": 147906
+  },
+  {
+    "name": "Solapur",
+    "id": 133986
+  },
+  {
+    "name": "Sonala",
+    "id": 147907
+  },
+  {
+    "name": "Sonegaon",
+    "id": 133993
+  },
+  {
+    "name": "Songir",
+    "id": 147908
+  },
+  {
+    "name": "Sonvad",
+    "id": 147909
+  },
+  {
+    "name": "Soygaon",
+    "id": 134015
+  },
+  {
+    "name": "Srivardhan",
+    "id": 134033
+  },
+  {
+    "name": "Surgana",
+    "id": 134052
+  },
+  {
+    "name": "Taklibhan",
+    "id": 147910
+  },
+  {
+    "name": "Talbid",
+    "id": 147911
+  },
+  {
+    "name": "Talegaon Dabhade",
+    "id": 134100
+  },
+  {
+    "name": "Talegaon Dhamdhere",
+    "id": 147912
+  },
+  {
+    "name": "Taloda",
+    "id": 134104
+  },
+  {
+    "name": "Talode",
+    "id": 147913
+  },
+  {
+    "name": "Tarapur",
+    "id": 134241
+  },
+  {
+    "name": "Tardeo",
+    "id": 147914
+  },
+  {
+    "name": "Tasgaon",
+    "id": 134242
+  },
+  {
+    "name": "Telhara",
+    "id": 134128
+  },
+  {
+    "name": "Thalner",
+    "id": 147915
+  },
+  {
+    "name": "Thane",
+    "id": 134138
+  },
+  {
+    "name": "Trimbak",
+    "id": 134212
+  },
+  {
+    "name": "Trombay",
+    "id": 147916
+  },
+  {
+    "name": "Tuljapur",
+    "id": 134217
+  },
+  {
+    "name": "Tumsar",
+    "id": 134221
+  },
+  {
+    "name": "Udgir",
+    "id": 134255
+  },
+  {
+    "name": "Ulhasnagar",
+    "id": 134267
+  },
+  {
+    "name": "Umarga",
+    "id": 134269
+  },
+  {
+    "name": "Umarkhed",
+    "id": 134272
+  },
+  {
+    "name": "Umred",
+    "id": 134274
+  },
+  {
+    "name": "Uran",
+    "id": 134291
+  },
+  {
+    "name": "Uruli Kanchan",
+    "id": 147917
+  },
+  {
+    "name": "Vada",
+    "id": 134379
+  },
+  {
+    "name": "Vadgaon",
+    "id": 147918
+  },
+  {
+    "name": "Vadner",
+    "id": 147919
+  },
+  {
+    "name": "Vaijapur",
+    "id": 134312
+  },
+  {
+    "name": "Vairag",
+    "id": 147920
+  },
+  {
+    "name": "Valsang",
+    "id": 147921
+  },
+  {
+    "name": "Vangaon",
+    "id": 147922
+  },
+  {
+    "name": "Varangaon",
+    "id": 134328
+  },
+  {
+    "name": "Vashi",
+    "id": 147923
+  },
+  {
+    "name": "Vasind",
+    "id": 134334
+  },
+  {
+    "name": "Vatul",
+    "id": 147924
+  },
+  {
+    "name": "Velas Maharashtra",
+    "id": 147925
+  },
+  {
+    "name": "Velneshwar",
+    "id": 147926
+  },
+  {
+    "name": "Vengurla",
+    "id": 134346
+  },
+  {
+    "name": "Vijaydurg",
+    "id": 147927
+  },
+  {
+    "name": "Vikhroli",
+    "id": 147928
+  },
+  {
+    "name": "Vile Parle",
+    "id": 147929
+  },
+  {
+    "name": "Vinchur",
+    "id": 147930
+  },
+  {
+    "name": "Virar",
+    "id": 134368
+  },
+  {
+    "name": "Vita Maharashtra",
+    "id": 147931
+  },
+  {
+    "name": "Vite",
+    "id": 134372
+  },
+  {
+    "name": "Wadala",
+    "id": 147932
+  },
+  {
+    "name": "Wadgaon",
+    "id": 134388
+  },
+  {
+    "name": "Wadner",
+    "id": 147933
+  },
+  {
+    "name": "Wadwani",
+    "id": 147934
+  },
+  {
+    "name": "Wagholi",
+    "id": 147935
+  },
+  {
+    "name": "Wai",
+    "id": 134390
+  },
+  {
+    "name": "Wakad",
+    "id": 147936
+  },
+  {
+    "name": "Walgaon",
+    "id": 147937
+  },
+  {
+    "name": "Walki",
+    "id": 147938
+  },
+  {
+    "name": "Wani",
+    "id": 134393
+  },
+  {
+    "name": "Wardha",
+    "id": 134396
+  },
+  {
+    "name": "Warora",
+    "id": 134397
+  },
+  {
+    "name": "Warud",
+    "id": 134398
+  },
+  {
+    "name": "Washim",
+    "id": 134399
+  },
+  {
+    "name": "Worli",
+    "id": 147939
+  },
+  {
+    "name": "Yaval",
+    "id": 134438
+  },
+  {
+    "name": "Yavatmal",
+    "id": 134427
+  },
+  {
+    "name": "Yeola",
+    "id": 134434
+  }
+]

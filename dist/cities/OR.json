@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Angul",
+    "id": 57704
+  },
+  {
+    "name": "Angul District",
+    "id": 57705
+  },
+  {
+    "name": "Asika",
+    "id": 134465
+  },
+  {
+    "name": "Athagarh",
+    "id": 134467
+  },
+  {
+    "name": "Bada Barabil",
+    "id": 57785
+  },
+  {
+    "name": "Balangir",
+    "id": 57835
+  },
+  {
+    "name": "Balasore",
+    "id": 57823
+  },
+  {
+    "name": "Baleshwar",
+    "id": 58114
+  },
+  {
+    "name": "Balimila",
+    "id": 57826
+  },
+  {
+    "name": "Balugaon",
+    "id": 58117
+  },
+  {
+    "name": "Banapur",
+    "id": 58123
+  },
+  {
+    "name": "Banki",
+    "id": 58128
+  },
+  {
+    "name": "Banposh",
+    "id": 58129
+  },
+  {
+    "name": "Baragarh",
+    "id": 57862
+  },
+  {
+    "name": "Barbil",
+    "id": 57866
+  },
+  {
+    "name": "Bargarh",
+    "id": 57869
+  },
+  {
+    "name": "Barpali",
+    "id": 57886
+  },
+  {
+    "name": "Basudebpur",
+    "id": 58149
+  },
+  {
+    "name": "Baud",
+    "id": 57907
+  },
+  {
+    "name": "Baudh",
+    "id": 57908
+  },
+  {
+    "name": "Belaguntha",
+    "id": 57921
+  },
+  {
+    "name": "Bhadrak",
+    "id": 57953
+  },
+  {
+    "name": "Bhadrakh",
+    "id": 57954
+  },
+  {
+    "name": "Bhanjanagar",
+    "id": 57963
+  },
+  {
+    "name": "Bhawanipatna",
+    "id": 57976
+  },
+  {
+    "name": "Bhuban",
+    "id": 57999
+  },
+  {
+    "name": "Bhubaneswar",
+    "id": 58000
+  },
+  {
+    "name": "Binka",
+    "id": 58058
+  },
+  {
+    "name": "Birmitrapur",
+    "id": 58060
+  },
+  {
+    "name": "Bolanikhodan",
+    "id": 58079
+  },
+  {
+    "name": "Brahmapur",
+    "id": 58086
+  },
+  {
+    "name": "Brajarajnagar",
+    "id": 58087
+  },
+  {
+    "name": "Buguda",
+    "id": 58092
+  },
+  {
+    "name": "Burla",
+    "id": 58099
+  },
+  {
+    "name": "Champua",
+    "id": 131594
+  },
+  {
+    "name": "Chandbali",
+    "id": 131597
+  },
+  {
+    "name": "Chatrapur",
+    "id": 131510
+  },
+  {
+    "name": "Chikitigarh",
+    "id": 131550
+  },
+  {
+    "name": "Chittarkonda",
+    "id": 131573
+  },
+  {
+    "name": "Cuttack",
+    "id": 131633
+  },
+  {
+    "name": "Daitari",
+    "id": 131643
+  },
+  {
+    "name": "Deogarh",
+    "id": 131683
+  },
+  {
+    "name": "Dhenkanal",
+    "id": 131735
+  },
+  {
+    "name": "Digapahandi",
+    "id": 131765
+  },
+  {
+    "name": "Gajapati",
+    "id": 131892
+  },
+  {
+    "name": "Ganjam",
+    "id": 131914
+  },
+  {
+    "name": "Gopalpur",
+    "id": 131988
+  },
+  {
+    "name": "Gudari",
+    "id": 132013
+  },
+  {
+    "name": "Gunupur",
+    "id": 132030
+  },
+  {
+    "name": "Hinjilikatu",
+    "id": 132102
+  },
+  {
+    "name": "Hirakud",
+    "id": 132148
+  },
+  {
+    "name": "Jagatsinghpur",
+    "id": 132185
+  },
+  {
+    "name": "Jajpur",
+    "id": 132209
+  },
+  {
+    "name": "Jaleshwar",
+    "id": 132213
+  },
+  {
+    "name": "Jatani",
+    "id": 132250
+  },
+  {
+    "name": "Jeypore",
+    "id": 132265
+  },
+  {
+    "name": "Jharsuguda",
+    "id": 132269
+  },
+  {
+    "name": "Jharsuguda District",
+    "id": 132270
+  },
+  {
+    "name": "Kaintragarh",
+    "id": 132338
+  },
+  {
+    "name": "Kalahandi",
+    "id": 132687
+  },
+  {
+    "name": "Kamakhyanagar",
+    "id": 132695
+  },
+  {
+    "name": "Kandhamal",
+    "id": 132371
+  },
+  {
+    "name": "Kantabanji",
+    "id": 132387
+  },
+  {
+    "name": "Kantilo",
+    "id": 132386
+  },
+  {
+    "name": "Kendrapara",
+    "id": 132441
+  },
+  {
+    "name": "Kendujhar",
+    "id": 132444
+  },
+  {
+    "name": "Kesinga",
+    "id": 132448
+  },
+  {
+    "name": "Khallikot",
+    "id": 132458
+  },
+  {
+    "name": "Kharhial",
+    "id": 132477
+  },
+  {
+    "name": "Khordha",
+    "id": 132501
+  },
+  {
+    "name": "Khurda",
+    "id": 132508
+  },
+  {
+    "name": "Kiri Buru",
+    "id": 132527
+  },
+  {
+    "name": "Kodala",
+    "id": 132539
+  },
+  {
+    "name": "Konarka",
+    "id": 132570
+  },
+  {
+    "name": "Koraput",
+    "id": 132578
+  },
+  {
+    "name": "Kuchaiburi",
+    "id": 132624
+  },
+  {
+    "name": "Kuchinda",
+    "id": 132626
+  },
+  {
+    "name": "Malkangiri",
+    "id": 132871
+  },
+  {
+    "name": "Mayurbhanj",
+    "id": 132954
+  },
+  {
+    "name": "Nabarangpur",
+    "id": 133104
+  },
+  {
+    "name": "Nayagarh",
+    "id": 133196
+  },
+  {
+    "name": "Nayagarh District",
+    "id": 133195
+  },
+  {
+    "name": "Nilgiri",
+    "id": 133285
+  },
+  {
+    "name": "Nimaparha",
+    "id": 133219
+  },
+  {
+    "name": "Nowrangapur",
+    "id": 133245
+  },
+  {
+    "name": "Nuapada",
+    "id": 133247
+  },
+  {
+    "name": "Padampur",
+    "id": 133312
+  },
+  {
+    "name": "Paradip Garh",
+    "id": 133370
+  },
+  {
+    "name": "Patamundai",
+    "id": 133393
+  },
+  {
+    "name": "Patnagarh",
+    "id": 133387
+  },
+  {
+    "name": "Phulbani",
+    "id": 133441
+  },
+  {
+    "name": "Pipili",
+    "id": 133453
+  },
+  {
+    "name": "Polasara",
+    "id": 133467
+  },
+  {
+    "name": "Puri",
+    "id": 133511
+  },
+  {
+    "name": "Purushottampur",
+    "id": 133513
+  },
+  {
+    "name": "Rambha",
+    "id": 133602
+  },
+  {
+    "name": "Raurkela",
+    "id": 133620
+  },
+  {
+    "name": "Rayagada",
+    "id": 133622
+  },
+  {
+    "name": "Remuna",
+    "id": 133625
+  },
+  {
+    "name": "Rengali",
+    "id": 133626
+  },
+  {
+    "name": "Sambalpur",
+    "id": 133769
+  },
+  {
+    "name": "Sonepur",
+    "id": 133994
+  },
+  {
+    "name": "Sorada",
+    "id": 134002
+  },
+  {
+    "name": "Soro",
+    "id": 134004
+  },
+  {
+    "name": "Subarnapur",
+    "id": 134034
+  },
+  {
+    "name": "Sundargarh",
+    "id": 134044
+  },
+  {
+    "name": "Talcher",
+    "id": 134232
+  },
+  {
+    "name": "Tarabha",
+    "id": 134115
+  },
+  {
+    "name": "Titlagarh",
+    "id": 134201
+  },
+  {
+    "name": "Udayagiri",
+    "id": 134254
+  }
+]

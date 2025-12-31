@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Addanki",
+    "id": 57593
+  },
+  {
+    "name": "Adoni",
+    "id": 134452
+  },
+  {
+    "name": "Akasahebpet",
+    "id": 57620
+  },
+  {
+    "name": "Akividu",
+    "id": 57623
+  },
+  {
+    "name": "Akkarampalle",
+    "id": 57624
+  },
+  {
+    "name": "Amalapuram",
+    "id": 57658
+  },
+  {
+    "name": "Amudalavalasa",
+    "id": 57690
+  },
+  {
+    "name": "Anakapalle",
+    "id": 57693
+  },
+  {
+    "name": "Anantapur",
+    "id": 57698
+  },
+  {
+    "name": "Atmakur",
+    "id": 57758
+  },
+  {
+    "name": "Attili",
+    "id": 57761
+  },
+  {
+    "name": "Avanigadda",
+    "id": 57771
+  },
+  {
+    "name": "Badvel",
+    "id": 57794
+  },
+  {
+    "name": "Banganapalle",
+    "id": 57849
+  },
+  {
+    "name": "Bapatla",
+    "id": 58137
+  },
+  {
+    "name": "Betamcherla",
+    "id": 57939
+  },
+  {
+    "name": "Bhattiprolu",
+    "id": 57971
+  },
+  {
+    "name": "Bhimavaram",
+    "id": 58021
+  },
+  {
+    "name": "Bhimunipatnam",
+    "id": 58022
+  },
+  {
+    "name": "Bobbili",
+    "id": 58070
+  },
+  {
+    "name": "Challapalle",
+    "id": 58179
+  },
+  {
+    "name": "Chemmumiahpet",
+    "id": 131514
+  },
+  {
+    "name": "Chilakalurupet",
+    "id": 131556
+  },
+  {
+    "name": "Chinnachowk",
+    "id": 131563
+  },
+  {
+    "name": "Chipurupalle",
+    "id": 131611
+  },
+  {
+    "name": "Chirala",
+    "id": 131612
+  },
+  {
+    "name": "Chittoor",
+    "id": 131575
+  },
+  {
+    "name": "Chodavaram",
+    "id": 131577
+  },
+  {
+    "name": "Cuddapah",
+    "id": 131627
+  },
+  {
+    "name": "Cumbum",
+    "id": 131628
+  },
+  {
+    "name": "Darsi",
+    "id": 131658
+  },
+  {
+    "name": "Dharmavaram",
+    "id": 131727
+  },
+  {
+    "name": "Dhone",
+    "id": 131740
+  },
+  {
+    "name": "Diguvametta",
+    "id": 131769
+  },
+  {
+    "name": "East Godavari",
+    "id": 131823
+  },
+  {
+    "name": "Elamanchili",
+    "id": 131830
+  },
+  {
+    "name": "Ellore",
+    "id": 131832
+  },
+  {
+    "name": "Emmiganur",
+    "id": 131836
+  },
+  {
+    "name": "Erraguntla",
+    "id": 131842
+  },
+  {
+    "name": "Etikoppaka",
+    "id": 131846
+  },
+  {
+    "name": "Gajuwaka",
+    "id": 131895
+  },
+  {
+    "name": "Ganguvada",
+    "id": 131906
+  },
+  {
+    "name": "Gannavaram",
+    "id": 131915
+  },
+  {
+    "name": "Giddalur",
+    "id": 131955
+  },
+  {
+    "name": "Gokavaram",
+    "id": 131972
+  },
+  {
+    "name": "Gorantla",
+    "id": 131993
+  },
+  {
+    "name": "GovindapuramChilakaluripetGuntur",
+    "id": 132001
+  },
+  {
+    "name": "Gudivada",
+    "id": 132010
+  },
+  {
+    "name": "Gudlavalleru",
+    "id": 132012
+  },
+  {
+    "name": "Gudur",
+    "id": 132051
+  },
+  {
+    "name": "Guntakal Junction",
+    "id": 132027
+  },
+  {
+    "name": "Guntur",
+    "id": 132028
+  },
+  {
+    "name": "Hindupur",
+    "id": 132099
+  },
+  {
+    "name": "Ichchapuram",
+    "id": 132151
+  },
+  {
+    "name": "Jaggayyapeta",
+    "id": 132189
+  },
+  {
+    "name": "Jammalamadugu",
+    "id": 132228
+  },
+  {
+    "name": "Kadiri",
+    "id": 132328
+  },
+  {
+    "name": "Kaikalur",
+    "id": 132332
+  },
+  {
+    "name": "Kakinada",
+    "id": 132678
+  },
+  {
+    "name": "Kalyandurg",
+    "id": 132358
+  },
+  {
+    "name": "Kamalapuram",
+    "id": 132691
+  },
+  {
+    "name": "Kandukur",
+    "id": 132372
+  },
+  {
+    "name": "Kanigiri",
+    "id": 132374
+  },
+  {
+    "name": "Kankipadu",
+    "id": 132376
+  },
+  {
+    "name": "Kanuru",
+    "id": 132388
+  },
+  {
+    "name": "Kavali",
+    "id": 132729
+  },
+  {
+    "name": "Kolanukonda",
+    "id": 132552
+  },
+  {
+    "name": "Kondapalle",
+    "id": 132567
+  },
+  {
+    "name": "Korukollu",
+    "id": 132584
+  },
+  {
+    "name": "Kosigi",
+    "id": 132590
+  },
+  {
+    "name": "Kovvur",
+    "id": 132616
+  },
+  {
+    "name": "Krishna",
+    "id": 132621
+  },
+  {
+    "name": "Kuppam",
+    "id": 132653
+  },
+  {
+    "name": "Kurnool",
+    "id": 132660
+  },
+  {
+    "name": "Macherla",
+    "id": 133055
+  },
+  {
+    "name": "Machilipatnam",
+    "id": 132806
+  },
+  {
+    "name": "Madanapalle",
+    "id": 132808
+  },
+  {
+    "name": "Madugula",
+    "id": 133059
+  },
+  {
+    "name": "Mandapeta",
+    "id": 132890
+  },
+  {
+    "name": "Mandasa",
+    "id": 132891
+  },
+  {
+    "name": "Mangalagiri",
+    "id": 132902
+  },
+  {
+    "name": "Markapur",
+    "id": 133088
+  },
+  {
+    "name": "Nagari",
+    "id": 133114
+  },
+  {
+    "name": "Nagireddipalli",
+    "id": 133258
+  },
+  {
+    "name": "Nandigama",
+    "id": 133143
+  },
+  {
+    "name": "Nandikotkur",
+    "id": 133144
+  },
+  {
+    "name": "Nandyal",
+    "id": 133146
+  },
+  {
+    "name": "Narasannapeta",
+    "id": 133156
+  },
+  {
+    "name": "Narasapur",
+    "id": 133157
+  },
+  {
+    "name": "Narasaraopet",
+    "id": 133158
+  },
+  {
+    "name": "Narasingapuram",
+    "id": 133160
+  },
+  {
+    "name": "Narayanavanam",
+    "id": 133275
+  },
+  {
+    "name": "Narsipatnam",
+    "id": 133173
+  },
+  {
+    "name": "Nayudupet",
+    "id": 133283
+  },
+  {
+    "name": "Nellore",
+    "id": 133206
+  },
+  {
+    "name": "Nidadavole",
+    "id": 133214
+  },
+  {
+    "name": "Nuzvid",
+    "id": 133294
+  },
+  {
+    "name": "Ongole",
+    "id": 133300
+  },
+  {
+    "name": "Pakala",
+    "id": 133521
+  },
+  {
+    "name": "Palakollu",
+    "id": 133523
+  },
+  {
+    "name": "Palasa",
+    "id": 133340
+  },
+  {
+    "name": "Palkonda",
+    "id": 133534
+  },
+  {
+    "name": "Pallevada",
+    "id": 133331
+  },
+  {
+    "name": "Palmaner",
+    "id": 133336
+  },
+  {
+    "name": "Parlakimidi",
+    "id": 133361
+  },
+  {
+    "name": "Parvatipuram",
+    "id": 133549
+  },
+  {
+    "name": "Pavuluru",
+    "id": 133395
+  },
+  {
+    "name": "Pedana",
+    "id": 133400
+  },
+  {
+    "name": "pedda nakkalapalem",
+    "id": 134447
+  },
+  {
+    "name": "Peddapuram",
+    "id": 133402
+  },
+  {
+    "name": "Penugonda",
+    "id": 133409
+  },
+  {
+    "name": "Penukonda",
+    "id": 133410
+  },
+  {
+    "name": "Phirangipuram",
+    "id": 133440
+  },
+  {
+    "name": "Pippara",
+    "id": 133455
+  },
+  {
+    "name": "Pithapuram",
+    "id": 133465
+  },
+  {
+    "name": "Polavaram",
+    "id": 133468
+  },
+  {
+    "name": "Ponnur",
+    "id": 133476
+  },
+  {
+    "name": "Ponnuru",
+    "id": 133478
+  },
+  {
+    "name": "Prakasam",
+    "id": 133485
+  },
+  {
+    "name": "Proddatur",
+    "id": 133489
+  },
+  {
+    "name": "Pulivendla",
+    "id": 133497
+  },
+  {
+    "name": "Punganuru",
+    "id": 133506
+  },
+  {
+    "name": "Puttaparthi",
+    "id": 133517
+  },
+  {
+    "name": "Puttur",
+    "id": 133519
+  },
+  {
+    "name": "Rajahmundry",
+    "id": 133671
+  },
+  {
+    "name": "Ramachandrapuram",
+    "id": 133691
+  },
+  {
+    "name": "Ramanayyapeta",
+    "id": 133600
+  },
+  {
+    "name": "Ramapuram",
+    "id": 133712
+  },
+  {
+    "name": "Rampachodavaram",
+    "id": 133605
+  },
+  {
+    "name": "Rayachoti",
+    "id": 133729
+  },
+  {
+    "name": "Rayadrug",
+    "id": 133730
+  },
+  {
+    "name": "Razam",
+    "id": 133734
+  },
+  {
+    "name": "Razampeta",
+    "id": 133732
+  },
+  {
+    "name": "Razole",
+    "id": 133733
+  },
+  {
+    "name": "Renigunta",
+    "id": 133627
+  },
+  {
+    "name": "Repalle",
+    "id": 133630
+  },
+  {
+    "name": "Salur",
+    "id": 134065
+  },
+  {
+    "name": "Samalkot",
+    "id": 134066
+  },
+  {
+    "name": "Sattenapalle",
+    "id": 133822
+  },
+  {
+    "name": "Singarayakonda",
+    "id": 133946
+  },
+  {
+    "name": "Sompeta",
+    "id": 133990
+  },
+  {
+    "name": "Srikakulam",
+    "id": 134019
+  },
+  {
+    "name": "Srisailain",
+    "id": 134032
+  },
+  {
+    "name": "Suluru",
+    "id": 134093
+  },
+  {
+    "name": "Tadepalle",
+    "id": 134226
+  },
+  {
+    "name": "Tadepallegudem",
+    "id": 134227
+  },
+  {
+    "name": "Tadpatri",
+    "id": 134228
+  },
+  {
+    "name": "Tanuku",
+    "id": 134113
+  },
+  {
+    "name": "Tekkali",
+    "id": 134126
+  },
+  {
+    "name": "Tirumala",
+    "id": 134183
+  },
+  {
+    "name": "Tirupati",
+    "id": 134187
+  },
+  {
+    "name": "Tuni",
+    "id": 134222
+  },
+  {
+    "name": "Uravakonda",
+    "id": 134292
+  },
+  {
+    "name": "vadlamuru",
+    "id": 134448
+  },
+  {
+    "name": "Vadlapudi",
+    "id": 134308
+  },
+  {
+    "name": "Venkatagiri",
+    "id": 134347
+  },
+  {
+    "name": "Vepagunta",
+    "id": 134348
+  },
+  {
+    "name": "Vetapalem",
+    "id": 134350
+  },
+  {
+    "name": "Vijayawada",
+    "id": 134356
+  },
+  {
+    "name": "Vinukonda",
+    "id": 134364
+  },
+  {
+    "name": "Visakhapatnam",
+    "id": 134369
+  },
+  {
+    "name": "Vizianagaram",
+    "id": 134373
+  },
+  {
+    "name": "Vizianagaram District",
+    "id": 134374
+  },
+  {
+    "name": "Vuyyuru",
+    "id": 134377
+  },
+  {
+    "name": "West Godavari",
+    "id": 134407
+  },
+  {
+    "name": "Yanam",
+    "id": 134424
+  },
+  {
+    "name": "Yanamalakuduru",
+    "id": 134426
+  },
+  {
+    "name": "Yarada",
+    "id": 134437
+  }
+]

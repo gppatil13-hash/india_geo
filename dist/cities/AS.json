@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Abhayapuri",
+    "id": 57585
+  },
+  {
+    "name": "Amguri",
+    "id": 57679
+  },
+  {
+    "name": "Badarpur",
+    "id": 57787
+  },
+  {
+    "name": "Baksa",
+    "id": 57820
+  },
+  {
+    "name": "Barpathar",
+    "id": 57883
+  },
+  {
+    "name": "Barpeta",
+    "id": 57884
+  },
+  {
+    "name": "Barpeta Road",
+    "id": 57885
+  },
+  {
+    "name": "Basugaon",
+    "id": 58150
+  },
+  {
+    "name": "Bihpuriagaon",
+    "id": 58028
+  },
+  {
+    "name": "Bijni",
+    "id": 58034
+  },
+  {
+    "name": "Bilasipara",
+    "id": 58053
+  },
+  {
+    "name": "Bokajan",
+    "id": 58075
+  },
+  {
+    "name": "Bokakhat",
+    "id": 58077
+  },
+  {
+    "name": "Bongaigaon",
+    "id": 58081
+  },
+  {
+    "name": "Cachar",
+    "id": 131634
+  },
+  {
+    "name": "Chabua",
+    "id": 131588
+  },
+  {
+    "name": "Chapar",
+    "id": 131604
+  },
+  {
+    "name": "Chirang",
+    "id": 131568
+  },
+  {
+    "name": "Darrang",
+    "id": 131657
+  },
+  {
+    "name": "Dergaon",
+    "id": 131695
+  },
+  {
+    "name": "Dhekiajuli",
+    "id": 131732
+  },
+  {
+    "name": "Dhemaji",
+    "id": 131733
+  },
+  {
+    "name": "Dhing",
+    "id": 131737
+  },
+  {
+    "name": "Dhubri",
+    "id": 131744
+  },
+  {
+    "name": "Dibrugarh",
+    "id": 131762
+  },
+  {
+    "name": "Digboi",
+    "id": 131766
+  },
+  {
+    "name": "Dima Hasao District",
+    "id": 131770
+  },
+  {
+    "name": "Diphu",
+    "id": 131776
+  },
+  {
+    "name": "Dispur",
+    "id": 131778
+  },
+  {
+    "name": "Duliagaon",
+    "id": 131795
+  },
+  {
+    "name": "Dum Duma",
+    "id": 131796
+  },
+  {
+    "name": "Gauripur",
+    "id": 131928
+  },
+  {
+    "name": "Goalpara",
+    "id": 132004
+  },
+  {
+    "name": "Gohpur",
+    "id": 131967
+  },
+  {
+    "name": "Golaghat",
+    "id": 131976
+  },
+  {
+    "name": "Golakganj",
+    "id": 131977
+  },
+  {
+    "name": "Goshaingaon",
+    "id": 131997
+  },
+  {
+    "name": "Guwahati",
+    "id": 132039
+  },
+  {
+    "name": "Haflong",
+    "id": 132134
+  },
+  {
+    "name": "Hailakandi",
+    "id": 132055
+  },
+  {
+    "name": "Hajo",
+    "id": 132137
+  },
+  {
+    "name": "Hojai",
+    "id": 132110
+  },
+  {
+    "name": "Howli",
+    "id": 132126
+  },
+  {
+    "name": "Jogighopa",
+    "id": 132291
+  },
+  {
+    "name": "Jorhat",
+    "id": 132294
+  },
+  {
+    "name": "Kamrup",
+    "id": 132693
+  },
+  {
+    "name": "Kamrup Metropolitan",
+    "id": 132366
+  },
+  {
+    "name": "Karbi Anglong",
+    "id": 132718
+  },
+  {
+    "name": "Karimganj",
+    "id": 132402
+  },
+  {
+    "name": "Kharupatia",
+    "id": 132518
+  },
+  {
+    "name": "Kokrajhar",
+    "id": 132551
+  },
+  {
+    "name": "Lakhimpur",
+    "id": 132742
+  },
+  {
+    "name": "Lakhipur",
+    "id": 132743
+  },
+  {
+    "name": "Lala",
+    "id": 132793
+  },
+  {
+    "name": "Lumding Railway Colony",
+    "id": 132786
+  },
+  {
+    "name": "Mahur",
+    "id": 132842
+  },
+  {
+    "name": "Maibong",
+    "id": 132853
+  },
+  {
+    "name": "Makum",
+    "id": 133064
+  },
+  {
+    "name": "Mangaldai",
+    "id": 132904
+  },
+  {
+    "name": "Mariani",
+    "id": 132937
+  },
+  {
+    "name": "Moranha",
+    "id": 133002
+  },
+  {
+    "name": "Morigaon",
+    "id": 132995
+  },
+  {
+    "name": "Nagaon",
+    "id": 133110
+  },
+  {
+    "name": "Nahorkatiya",
+    "id": 133122
+  },
+  {
+    "name": "Nalbari",
+    "id": 133130
+  },
+  {
+    "name": "Namrup",
+    "id": 133266
+  },
+  {
+    "name": "Nazira",
+    "id": 133284
+  },
+  {
+    "name": "North Guwahati",
+    "id": 133239
+  },
+  {
+    "name": "North Lakhimpur",
+    "id": 133240
+  },
+  {
+    "name": "Numaligarh",
+    "id": 133248
+  },
+  {
+    "name": "Palasbari",
+    "id": 133341
+  },
+  {
+    "name": "Raha",
+    "id": 133584
+  },
+  {
+    "name": "Rangapara",
+    "id": 133610
+  },
+  {
+    "name": "Rangia",
+    "id": 133608
+  },
+  {
+    "name": "Sapatgram",
+    "id": 133798
+  },
+  {
+    "name": "Sarupathar",
+    "id": 133809
+  },
+  {
+    "name": "Sibsagar",
+    "id": 133916
+  },
+  {
+    "name": "Silapathar",
+    "id": 133934
+  },
+  {
+    "name": "Silchar",
+    "id": 133935
+  },
+  {
+    "name": "Soalkuchi",
+    "id": 133979
+  },
+  {
+    "name": "Sonari",
+    "id": 133998
+  },
+  {
+    "name": "Sonitpur",
+    "id": 133996
+  },
+  {
+    "name": "Sorbhog",
+    "id": 134003
+  },
+  {
+    "name": "Tezpur",
+    "id": 134134
+  },
+  {
+    "name": "Tinsukia",
+    "id": 134175
+  },
+  {
+    "name": "Titabar",
+    "id": 134203
+  },
+  {
+    "name": "Udalguri",
+    "id": 134252
+  }
+]

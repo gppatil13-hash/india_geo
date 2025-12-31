@@ -1,0 +1,526 @@
+[
+  {
+    "name": "Amarpur",
+    "id": 57661
+  },
+  {
+    "name": "Araria",
+    "id": 57730
+  },
+  {
+    "name": "Arrah",
+    "id": 57739
+  },
+  {
+    "name": "Arwal",
+    "id": 57747
+  },
+  {
+    "name": "Asarganj",
+    "id": 57749
+  },
+  {
+    "name": "Aurangabad",
+    "id": 57766
+  },
+  {
+    "name": "Bagaha",
+    "id": 57796
+  },
+  {
+    "name": "Bahadurganj",
+    "id": 57809
+  },
+  {
+    "name": "Bairagnia",
+    "id": 57815
+  },
+  {
+    "name": "Baisi",
+    "id": 57816
+  },
+  {
+    "name": "Bakhtiyarpur",
+    "id": 57818
+  },
+  {
+    "name": "Bangaon",
+    "id": 57850
+  },
+  {
+    "name": "Banka",
+    "id": 57854
+  },
+  {
+    "name": "Banmankhi",
+    "id": 57855
+  },
+  {
+    "name": "Bar Bigha",
+    "id": 57860
+  },
+  {
+    "name": "Barauli",
+    "id": 57864
+  },
+  {
+    "name": "Barh",
+    "id": 58141
+  },
+  {
+    "name": "Barhiya",
+    "id": 57873
+  },
+  {
+    "name": "Bariarpur",
+    "id": 57875
+  },
+  {
+    "name": "Baruni",
+    "id": 58145
+  },
+  {
+    "name": "Begusarai",
+    "id": 57915
+  },
+  {
+    "name": "Belsand",
+    "id": 57927
+  },
+  {
+    "name": "Bettiah",
+    "id": 57941
+  },
+  {
+    "name": "Bhabhua",
+    "id": 57947
+  },
+  {
+    "name": "Bhagalpur",
+    "id": 58009
+  },
+  {
+    "name": "Bhagirathpur",
+    "id": 57957
+  },
+  {
+    "name": "Bhawanipur",
+    "id": 57974
+  },
+  {
+    "name": "Bhojpur",
+    "id": 57991
+  },
+  {
+    "name": "Bihar Sharif",
+    "id": 58029
+  },
+  {
+    "name": "Bihariganj",
+    "id": 58030
+  },
+  {
+    "name": "Bikramganj",
+    "id": 58039
+  },
+  {
+    "name": "Birpur",
+    "id": 58160
+  },
+  {
+    "name": "Bodh Gaya",
+    "id": 58089
+  },
+  {
+    "name": "Buxar",
+    "id": 58100
+  },
+  {
+    "name": "Chakia",
+    "id": 131590
+  },
+  {
+    "name": "Chapra",
+    "id": 131605
+  },
+  {
+    "name": "Chhatapur",
+    "id": 131541
+  },
+  {
+    "name": "Colgong",
+    "id": 131620
+  },
+  {
+    "name": "Dalsingh Sarai",
+    "id": 131647
+  },
+  {
+    "name": "Darbhanga",
+    "id": 131654
+  },
+  {
+    "name": "Daudnagar",
+    "id": 131664
+  },
+  {
+    "name": "Dehri",
+    "id": 131677
+  },
+  {
+    "name": "Dhaka",
+    "id": 131748
+  },
+  {
+    "name": "Dighwara",
+    "id": 131767
+  },
+  {
+    "name": "Dinapore",
+    "id": 131773
+  },
+  {
+    "name": "Dumra",
+    "id": 131798
+  },
+  {
+    "name": "Dumraon",
+    "id": 131799
+  },
+  {
+    "name": "Fatwa",
+    "id": 131873
+  },
+  {
+    "name": "Forbesganj",
+    "id": 131878
+  },
+  {
+    "name": "Gaya",
+    "id": 131932
+  },
+  {
+    "name": "Ghoga",
+    "id": 131943
+  },
+  {
+    "name": "Gopalganj",
+    "id": 131987
+  },
+  {
+    "name": "Hajipur",
+    "id": 132138
+  },
+  {
+    "name": "Hilsa",
+    "id": 132095
+  },
+  {
+    "name": "Hisua",
+    "id": 132107
+  },
+  {
+    "name": "Islampur",
+    "id": 132174
+  },
+  {
+    "name": "Jagdispur",
+    "id": 132188
+  },
+  {
+    "name": "Jahanabad",
+    "id": 132198
+  },
+  {
+    "name": "Jamalpur",
+    "id": 132234
+  },
+  {
+    "name": "Jamui",
+    "id": 132233
+  },
+  {
+    "name": "Jaynagar",
+    "id": 132258
+  },
+  {
+    "name": "Jehanabad",
+    "id": 132259
+  },
+  {
+    "name": "Jha-Jha",
+    "id": 132274
+  },
+  {
+    "name": "Jhanjharpur",
+    "id": 132267
+  },
+  {
+    "name": "Jogbani",
+    "id": 132288
+  },
+  {
+    "name": "Kaimur District",
+    "id": 132337
+  },
+  {
+    "name": "Kasba",
+    "id": 132417
+  },
+  {
+    "name": "Katihar",
+    "id": 132423
+  },
+  {
+    "name": "Khagaria",
+    "id": 132451
+  },
+  {
+    "name": "Khagaul",
+    "id": 132452
+  },
+  {
+    "name": "Kharagpur",
+    "id": 132470
+  },
+  {
+    "name": "Khusropur",
+    "id": 132510
+  },
+  {
+    "name": "Kishanganj",
+    "id": 132529
+  },
+  {
+    "name": "Koath",
+    "id": 132620
+  },
+  {
+    "name": "Koelwar",
+    "id": 132548
+  },
+  {
+    "name": "Lakhisarai",
+    "id": 132744
+  },
+  {
+    "name": "Lalganj",
+    "id": 132795
+  },
+  {
+    "name": "Luckeesarai",
+    "id": 132781
+  },
+  {
+    "name": "Madhepura",
+    "id": 132812
+  },
+  {
+    "name": "Madhubani",
+    "id": 132815
+  },
+  {
+    "name": "Maharajgani",
+    "id": 132849
+  },
+  {
+    "name": "Mairwa",
+    "id": 132859
+  },
+  {
+    "name": "Maner",
+    "id": 132901
+  },
+  {
+    "name": "Manihari",
+    "id": 132911
+  },
+  {
+    "name": "Marhaura",
+    "id": 132935
+  },
+  {
+    "name": "Masaurhi Buzurg",
+    "id": 132938
+  },
+  {
+    "name": "Mohiuddi nagar",
+    "id": 132984
+  },
+  {
+    "name": "Mokameh",
+    "id": 132988
+  },
+  {
+    "name": "Monghyr",
+    "id": 132991
+  },
+  {
+    "name": "Mothihari",
+    "id": 133005
+  },
+  {
+    "name": "Munger",
+    "id": 133032
+  },
+  {
+    "name": "Murliganj",
+    "id": 133037
+  },
+  {
+    "name": "Muzaffarpur",
+    "id": 133052
+  },
+  {
+    "name": "Nabinagar",
+    "id": 133105
+  },
+  {
+    "name": "Nalanda",
+    "id": 133262
+  },
+  {
+    "name": "Nasriganj",
+    "id": 133279
+  },
+  {
+    "name": "Naugachhia",
+    "id": 133182
+  },
+  {
+    "name": "Nawada",
+    "id": 133192
+  },
+  {
+    "name": "Nirmali",
+    "id": 133222
+  },
+  {
+    "name": "Pashchim Champaran",
+    "id": 133373
+  },
+  {
+    "name": "Patna",
+    "id": 133386
+  },
+  {
+    "name": "Piro",
+    "id": 133459
+  },
+  {
+    "name": "Pupri",
+    "id": 133509
+  },
+  {
+    "name": "Purba Champaran",
+    "id": 133570
+  },
+  {
+    "name": "Purnia",
+    "id": 133512
+  },
+  {
+    "name": "Rafiganj",
+    "id": 133581
+  },
+  {
+    "name": "Raghunathpur",
+    "id": 133582
+  },
+  {
+    "name": "Rajgir",
+    "id": 133678
+  },
+  {
+    "name": "Ramnagar",
+    "id": 133701
+  },
+  {
+    "name": "Raxaul",
+    "id": 133621
+  },
+  {
+    "name": "Revelganj",
+    "id": 133632
+  },
+  {
+    "name": "Rohtas",
+    "id": 133648
+  },
+  {
+    "name": "Rusera",
+    "id": 133656
+  },
+  {
+    "name": "Sagauli",
+    "id": 133748
+  },
+  {
+    "name": "Saharsa",
+    "id": 133749
+  },
+  {
+    "name": "Samastipur",
+    "id": 133767
+  },
+  {
+    "name": "Saran",
+    "id": 134076
+  },
+  {
+    "name": "Shahbazpur",
+    "id": 133852
+  },
+  {
+    "name": "Shahpur",
+    "id": 133902
+  },
+  {
+    "name": "Sheikhpura",
+    "id": 133858
+  },
+  {
+    "name": "Sheohar",
+    "id": 133860
+  },
+  {
+    "name": "Sherghati",
+    "id": 133863
+  },
+  {
+    "name": "Silao",
+    "id": 133933
+  },
+  {
+    "name": "Sitamarhi",
+    "id": 134089
+  },
+  {
+    "name": "Siwan",
+    "id": 133977
+  },
+  {
+    "name": "Supaul",
+    "id": 134049
+  },
+  {
+    "name": "Teghra",
+    "id": 134121
+  },
+  {
+    "name": "Tekari",
+    "id": 134127
+  },
+  {
+    "name": "Thakurganj",
+    "id": 134163
+  },
+  {
+    "name": "Vaishali",
+    "id": 134314
+  },
+  {
+    "name": "Waris Aliganj",
+    "id": 134417
+  }
+]

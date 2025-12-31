@@ -1,0 +1,1230 @@
+[
+  {
+    "name": "Abrama",
+    "id": 57588
+  },
+  {
+    "name": "Adalaj",
+    "id": 57591
+  },
+  {
+    "name": "Agol",
+    "id": 147572
+  },
+  {
+    "name": "Ahmedabad",
+    "id": 57606
+  },
+  {
+    "name": "Ahwa",
+    "id": 57608
+  },
+  {
+    "name": "Akrund",
+    "id": 147573
+  },
+  {
+    "name": "Amod",
+    "id": 57683
+  },
+  {
+    "name": "Amreli",
+    "id": 57685
+  },
+  {
+    "name": "Amroli",
+    "id": 57688
+  },
+  {
+    "name": "Anand",
+    "id": 57695
+  },
+  {
+    "name": "Anjar",
+    "id": 57709
+  },
+  {
+    "name": "Ankleshwar",
+    "id": 57710
+  },
+  {
+    "name": "Babra",
+    "id": 58104
+  },
+  {
+    "name": "Bagasara",
+    "id": 142125
+  },
+  {
+    "name": "Bagasra",
+    "id": 57799
+  },
+  {
+    "name": "Bakharla",
+    "id": 147575
+  },
+  {
+    "name": "Balagam",
+    "id": 147576
+  },
+  {
+    "name": "Balasinor",
+    "id": 147577
+  },
+  {
+    "name": "Balisana",
+    "id": 147578
+  },
+  {
+    "name": "Bamanbore",
+    "id": 147579
+  },
+  {
+    "name": "Banas Kantha",
+    "id": 57858
+  },
+  {
+    "name": "Bandia",
+    "id": 147580
+  },
+  {
+    "name": "Bantva",
+    "id": 58135
+  },
+  {
+    "name": "Bardoli",
+    "id": 58140
+  },
+  {
+    "name": "Bavla",
+    "id": 153924
+  },
+  {
+    "name": "Bedi",
+    "id": 57911
+  },
+  {
+    "name": "Bhachau",
+    "id": 57948
+  },
+  {
+    "name": "Bhadran",
+    "id": 147581
+  },
+  {
+    "name": "Bhandu",
+    "id": 147582
+  },
+  {
+    "name": "Bhanvad",
+    "id": 58014
+  },
+  {
+    "name": "Bharuch",
+    "id": 57967
+  },
+  {
+    "name": "Bhatha",
+    "id": 147583
+  },
+  {
+    "name": "Bhavnagar",
+    "id": 57972
+  },
+  {
+    "name": "Bhayavadar",
+    "id": 58017
+  },
+  {
+    "name": "Bhildi",
+    "id": 147584
+  },
+  {
+    "name": "Bhojpur Dharampur",
+    "id": 147585
+  },
+  {
+    "name": "Bhuj",
+    "id": 58002
+  },
+  {
+    "name": "Bilimora",
+    "id": 58045
+  },
+  {
+    "name": "Bilkha",
+    "id": 58046
+  },
+  {
+    "name": "Borsad",
+    "id": 58084
+  },
+  {
+    "name": "Botad",
+    "id": 58085
+  },
+  {
+    "name": "Chaklasi",
+    "id": 58174
+  },
+  {
+    "name": "Chalala",
+    "id": 58180
+  },
+  {
+    "name": "Chaloda",
+    "id": 147586
+  },
+  {
+    "name": "Champaner",
+    "id": 147587
+  },
+  {
+    "name": "Chanasma",
+    "id": 131595
+  },
+  {
+    "name": "Chhala",
+    "id": 131529
+  },
+  {
+    "name": "Chhota Udepur",
+    "id": 131535
+  },
+  {
+    "name": "Chikhli",
+    "id": 131548
+  },
+  {
+    "name": "Chotila",
+    "id": 131582
+  },
+  {
+    "name": "Chuda",
+    "id": 147588
+  },
+  {
+    "name": "Dabhoda",
+    "id": 147589
+  },
+  {
+    "name": "Dabhoi",
+    "id": 131635
+  },
+  {
+    "name": "Dahegam",
+    "id": 131642
+  },
+  {
+    "name": "Dahod",
+    "id": 142126
+  },
+  {
+    "name": "Dakor",
+    "id": 131808
+  },
+  {
+    "name": "Damnagar",
+    "id": 131809
+  },
+  {
+    "name": "Dandi",
+    "id": 147590
+  },
+  {
+    "name": "Dangs (India)",
+    "id": 142127
+  },
+  {
+    "name": "Danta",
+    "id": 147591
+  },
+  {
+    "name": "Dayapar",
+    "id": 131673
+  },
+  {
+    "name": "Delvada",
+    "id": 131680
+  },
+  {
+    "name": "Delwada",
+    "id": 142128
+  },
+  {
+    "name": "Detroj",
+    "id": 147592
+  },
+  {
+    "name": "Devbhumi Dwarka",
+    "id": 131704
+  },
+  {
+    "name": "Devgadh Bariya",
+    "id": 131705
+  },
+  {
+    "name": "Dhandhuka",
+    "id": 131716
+  },
+  {
+    "name": "Dhanera",
+    "id": 131717
+  },
+  {
+    "name": "Dhansura",
+    "id": 147593
+  },
+  {
+    "name": "Dharampur",
+    "id": 131719
+  },
+  {
+    "name": "Dharasana",
+    "id": 147594
+  },
+  {
+    "name": "Dhari",
+    "id": 131755
+  },
+  {
+    "name": "Dhasa",
+    "id": 147595
+  },
+  {
+    "name": "Dhola",
+    "id": 131738
+  },
+  {
+    "name": "Dholera",
+    "id": 147596
+  },
+  {
+    "name": "Dholka",
+    "id": 131739
+  },
+  {
+    "name": "Dhoraji",
+    "id": 131741
+  },
+  {
+    "name": "Dhrangadhra",
+    "id": 131743
+  },
+  {
+    "name": "Dhrol",
+    "id": 131742
+  },
+  {
+    "name": "Dhuwaran",
+    "id": 131747
+  },
+  {
+    "name": "Disa",
+    "id": 131817
+  },
+  {
+    "name": "Dohad",
+    "id": 131782
+  },
+  {
+    "name": "Dumkhal",
+    "id": 147597
+  },
+  {
+    "name": "Dungarpur",
+    "id": 131800
+  },
+  {
+    "name": "Dwarka",
+    "id": 131803
+  },
+  {
+    "name": "Gadhada",
+    "id": 131888
+  },
+  {
+    "name": "Gandevi",
+    "id": 131899
+  },
+  {
+    "name": "Gandhidham",
+    "id": 132046
+  },
+  {
+    "name": "Gandhinagar",
+    "id": 131900
+  },
+  {
+    "name": "Gariadhar",
+    "id": 131925
+  },
+  {
+    "name": "Ghodasar",
+    "id": 147598
+  },
+  {
+    "name": "Ghogha",
+    "id": 131944
+  },
+  {
+    "name": "Gir Somnath",
+    "id": 131958
+  },
+  {
+    "name": "Godhra",
+    "id": 131964
+  },
+  {
+    "name": "Gondal",
+    "id": 131982
+  },
+  {
+    "name": "Gorwa",
+    "id": 147599
+  },
+  {
+    "name": "Halenda",
+    "id": 147600
+  },
+  {
+    "name": "Halol",
+    "id": 132139
+  },
+  {
+    "name": "Halvad",
+    "id": 132060
+  },
+  {
+    "name": "Hansot",
+    "id": 132065
+  },
+  {
+    "name": "Harij",
+    "id": 132143
+  },
+  {
+    "name": "Harsol",
+    "id": 147601
+  },
+  {
+    "name": "Hathuran",
+    "id": 147602
+  },
+  {
+    "name": "Himatnagar",
+    "id": 132096
+  },
+  {
+    "name": "Idar",
+    "id": 147603
+  },
+  {
+    "name": "Jakhau",
+    "id": 147604
+  },
+  {
+    "name": "Jalalpore",
+    "id": 142129
+  },
+  {
+    "name": "Jalalpur",
+    "id": 132219
+  },
+  {
+    "name": "Jalia",
+    "id": 147605
+  },
+  {
+    "name": "Jambuda",
+    "id": 147606
+  },
+  {
+    "name": "Jambusar",
+    "id": 132226
+  },
+  {
+    "name": "Jamnagar",
+    "id": 132230
+  },
+  {
+    "name": "Jarod",
+    "id": 147607
+  },
+  {
+    "name": "Jasdan",
+    "id": 132243
+  },
+  {
+    "name": "Jetalpur",
+    "id": 147608
+  },
+  {
+    "name": "Jetalsar",
+    "id": 132261
+  },
+  {
+    "name": "Jetpur",
+    "id": 132262
+  },
+  {
+    "name": "Jetpur (Navagadh)",
+    "id": 147609
+  },
+  {
+    "name": "Jhalod",
+    "id": 147610
+  },
+  {
+    "name": "Jhulasan",
+    "id": 132272
+  },
+  {
+    "name": "Jodhpur",
+    "id": 132285
+  },
+  {
+    "name": "Jodhpur (Ahmedabad)",
+    "id": 147611
+  },
+  {
+    "name": "Jodia",
+    "id": 142130
+  },
+  {
+    "name": "Jodiya Bandar",
+    "id": 132287
+  },
+  {
+    "name": "Junagadh",
+    "id": 132317
+  },
+  {
+    "name": "Kachchh",
+    "id": 132321
+  },
+  {
+    "name": "Kachholi",
+    "id": 147612
+  },
+  {
+    "name": "Kadi",
+    "id": 132327
+  },
+  {
+    "name": "Kadod",
+    "id": 132329
+  },
+  {
+    "name": "Kalavad",
+    "id": 132689
+  },
+  {
+    "name": "Kalol",
+    "id": 132682
+  },
+  {
+    "name": "Kandla",
+    "id": 132698
+  },
+  {
+    "name": "Kandla port",
+    "id": 147613
+  },
+  {
+    "name": "Kanodar",
+    "id": 132708
+  },
+  {
+    "name": "Kapadvanj",
+    "id": 132390
+  },
+  {
+    "name": "Karamsad",
+    "id": 132394
+  },
+  {
+    "name": "Kariana",
+    "id": 147614
+  },
+  {
+    "name": "Karjan",
+    "id": 147615
+  },
+  {
+    "name": "Kathor",
+    "id": 132723
+  },
+  {
+    "name": "Katpur",
+    "id": 132425
+  },
+  {
+    "name": "Kawant",
+    "id": 132434
+  },
+  {
+    "name": "Kayavarohan",
+    "id": 147616
+  },
+  {
+    "name": "Kerwada",
+    "id": 147617
+  },
+  {
+    "name": "Keshod",
+    "id": 132446
+  },
+  {
+    "name": "Khambhalia",
+    "id": 142132
+  },
+  {
+    "name": "Khambhat",
+    "id": 132462
+  },
+  {
+    "name": "Khavda",
+    "id": 147618
+  },
+  {
+    "name": "Kheda",
+    "id": 132488
+  },
+  {
+    "name": "Khedbrahma",
+    "id": 132489
+  },
+  {
+    "name": "Khedoi",
+    "id": 147619
+  },
+  {
+    "name": "Kherali",
+    "id": 147620
+  },
+  {
+    "name": "Kheralu",
+    "id": 132494
+  },
+  {
+    "name": "Kodinar",
+    "id": 132547
+  },
+  {
+    "name": "Kosamba",
+    "id": 132588
+  },
+  {
+    "name": "Kothara",
+    "id": 147621
+  },
+  {
+    "name": "Kotharia",
+    "id": 147622
+  },
+  {
+    "name": "Kukarmunda",
+    "id": 147623
+  },
+  {
+    "name": "Kukma",
+    "id": 147624
+  },
+  {
+    "name": "Kundla",
+    "id": 132647
+  },
+  {
+    "name": "Kutch district",
+    "id": 142133
+  },
+  {
+    "name": "Kutiyana",
+    "id": 132670
+  },
+  {
+    "name": "Ladol",
+    "id": 147628
+  },
+  {
+    "name": "Lakhpat",
+    "id": 147625
+  },
+  {
+    "name": "Lakhtar",
+    "id": 132747
+  },
+  {
+    "name": "Lalpur",
+    "id": 132797
+  },
+  {
+    "name": "Langhnaj",
+    "id": 147626
+  },
+  {
+    "name": "Lathi",
+    "id": 132802
+  },
+  {
+    "name": "Limbdi",
+    "id": 132764
+  },
+  {
+    "name": "Limkheda",
+    "id": 147627
+  },
+  {
+    "name": "Lunavada",
+    "id": 132804
+  },
+  {
+    "name": "Madhavpur Ghed",
+    "id": 147629
+  },
+  {
+    "name": "Madhi",
+    "id": 147630
+  },
+  {
+    "name": "Mahemdavad",
+    "id": 132831
+  },
+  {
+    "name": "Mahesana",
+    "id": 132834
+  },
+  {
+    "name": "Mahisa",
+    "id": 147631
+  },
+  {
+    "name": "Mahudha",
+    "id": 132841
+  },
+  {
+    "name": "Mahuva",
+    "id": 147632
+  },
+  {
+    "name": "Mahuva (Surat)",
+    "id": 147633
+  },
+  {
+    "name": "Malpur",
+    "id": 133068
+  },
+  {
+    "name": "Manavadar",
+    "id": 133085
+  },
+  {
+    "name": "Mandal",
+    "id": 133073
+  },
+  {
+    "name": "Mandvi",
+    "id": 133076
+  },
+  {
+    "name": "Mandvi (Surat)",
+    "id": 142134
+  },
+  {
+    "name": "Mangrol",
+    "id": 133077
+  },
+  {
+    "name": "Mangrol (Junagadh)",
+    "id": 147634
+  },
+  {
+    "name": "Mansa",
+    "id": 133081
+  },
+  {
+    "name": "Meghraj",
+    "id": 132960
+  },
+  {
+    "name": "Mehsana",
+    "id": 142135
+  },
+  {
+    "name": "Mendarda",
+    "id": 132966
+  },
+  {
+    "name": "Mithapur",
+    "id": 147635
+  },
+  {
+    "name": "Modasa",
+    "id": 132978
+  },
+  {
+    "name": "Morbi",
+    "id": 132993
+  },
+  {
+    "name": "Morva (Hadaf)",
+    "id": 142136
+  },
+  {
+    "name": "Morwa",
+    "id": 133000
+  },
+  {
+    "name": "Mundra",
+    "id": 133029
+  },
+  {
+    "name": "Nadiad",
+    "id": 133106
+  },
+  {
+    "name": "Nagwa",
+    "id": 147637
+  },
+  {
+    "name": "Naldhara",
+    "id": 147638
+  },
+  {
+    "name": "Naliya",
+    "id": 133133
+  },
+  {
+    "name": "Nargol",
+    "id": 147639
+  },
+  {
+    "name": "Narmada",
+    "id": 133169
+  },
+  {
+    "name": "Naroda",
+    "id": 133170
+  },
+  {
+    "name": "Navsari",
+    "id": 133187
+  },
+  {
+    "name": "Nikora",
+    "id": 147640
+  },
+  {
+    "name": "Nizar",
+    "id": 147641
+  },
+  {
+    "name": "Odadar",
+    "id": 147642
+  },
+  {
+    "name": "Okha",
+    "id": 133297
+  },
+  {
+    "name": "Olpad",
+    "id": 133298
+  },
+  {
+    "name": "Paddhari",
+    "id": 133313
+  },
+  {
+    "name": "Padra",
+    "id": 133315
+  },
+  {
+    "name": "Palanpur",
+    "id": 133526
+  },
+  {
+    "name": "Palanswa",
+    "id": 147643
+  },
+  {
+    "name": "Palitana",
+    "id": 133532
+  },
+  {
+    "name": "Paliyad",
+    "id": 133533
+  },
+  {
+    "name": "Palsana",
+    "id": 147645
+  },
+  {
+    "name": "Panch Mahals",
+    "id": 133536
+  },
+  {
+    "name": "Panchmahal district",
+    "id": 142137
+  },
+  {
+    "name": "Pardi",
+    "id": 133548
+  },
+  {
+    "name": "Parnera",
+    "id": 133362
+  },
+  {
+    "name": "Patan",
+    "id": 133376
+  },
+  {
+    "name": "Pavi Jetpur",
+    "id": 142138
+  },
+  {
+    "name": "Petlad",
+    "id": 133429
+  },
+  {
+    "name": "Pipavav",
+    "id": 147646
+  },
+  {
+    "name": "Piplod",
+    "id": 147647
+  },
+  {
+    "name": "Porbandar",
+    "id": 133480
+  },
+  {
+    "name": "Prabhas Patan",
+    "id": 147648
+  },
+  {
+    "name": "Prantij",
+    "id": 147649
+  },
+  {
+    "name": "Radhanpur",
+    "id": 133657
+  },
+  {
+    "name": "Rajkot",
+    "id": 133679
+  },
+  {
+    "name": "Rajpipla",
+    "id": 133682
+  },
+  {
+    "name": "Rajula",
+    "id": 133684
+  },
+  {
+    "name": "Ranavav",
+    "id": 133718
+  },
+  {
+    "name": "Ranpur",
+    "id": 147650
+  },
+  {
+    "name": "Rapar",
+    "id": 133722
+  },
+  {
+    "name": "Reha",
+    "id": 147651
+  },
+  {
+    "name": "Roha",
+    "id": 133643
+  },
+  {
+    "name": "Sabar Kantha",
+    "id": 133739
+  },
+  {
+    "name": "Sachin",
+    "id": 133742
+  },
+  {
+    "name": "Salaya",
+    "id": 133766
+  },
+  {
+    "name": "Samakhiali",
+    "id": 147652
+  },
+  {
+    "name": "Sanand",
+    "id": 134069
+  },
+  {
+    "name": "Sankheda",
+    "id": 133790
+  },
+  {
+    "name": "Sarbhon",
+    "id": 147653
+  },
+  {
+    "name": "Sardoi",
+    "id": 147654
+  },
+  {
+    "name": "Sarkhej",
+    "id": 133808
+  },
+  {
+    "name": "Sathamba",
+    "id": 147655
+  },
+  {
+    "name": "Savarkundla",
+    "id": 133831
+  },
+  {
+    "name": "Savli",
+    "id": 147656
+  },
+  {
+    "name": "Sayla",
+    "id": 134085
+  },
+  {
+    "name": "Shahpur",
+    "id": 133900
+  },
+  {
+    "name": "Shivrajpur",
+    "id": 133882
+  },
+  {
+    "name": "Siddhpur",
+    "id": 142139
+  },
+  {
+    "name": "Sihor",
+    "id": 133925
+  },
+  {
+    "name": "Sikka",
+    "id": 133932
+  },
+  {
+    "name": "Sinor",
+    "id": 133954
+  },
+  {
+    "name": "Sojitra",
+    "id": 133984
+  },
+  {
+    "name": "Songadh",
+    "id": 133995
+  },
+  {
+    "name": "Supedi",
+    "id": 147657
+  },
+  {
+    "name": "Surat",
+    "id": 134096
+  },
+  {
+    "name": "Surendranagar",
+    "id": 134050
+  },
+  {
+    "name": "Sutrapada",
+    "id": 147658
+  },
+  {
+    "name": "Talaja",
+    "id": 134107
+  },
+  {
+    "name": "Tankara",
+    "id": 134112
+  },
+  {
+    "name": "Tapi",
+    "id": 134114
+  },
+  {
+    "name": "Than",
+    "id": 134164
+  },
+  {
+    "name": "Thangadh",
+    "id": 142140
+  },
+  {
+    "name": "Tharad",
+    "id": 134144
+  },
+  {
+    "name": "Thasra",
+    "id": 134168
+  },
+  {
+    "name": "The Dangs",
+    "id": 134145
+  },
+  {
+    "name": "Umarpada",
+    "id": 147659
+  },
+  {
+    "name": "Umrala",
+    "id": 134277
+  },
+  {
+    "name": "Umreth",
+    "id": 134275
+  },
+  {
+    "name": "Un",
+    "id": 134278
+  },
+  {
+    "name": "Una",
+    "id": 134280
+  },
+  {
+    "name": "Unjha",
+    "id": 134284
+  },
+  {
+    "name": "Upleta",
+    "id": 134286
+  },
+  {
+    "name": "Utran",
+    "id": 134297
+  },
+  {
+    "name": "Vadgam",
+    "id": 147660
+  },
+  {
+    "name": "Vadnagar",
+    "id": 134309
+  },
+  {
+    "name": "Vadodara",
+    "id": 134310
+  },
+  {
+    "name": "Vaghodia",
+    "id": 134381
+  },
+  {
+    "name": "Vaghodia INA",
+    "id": 147661
+  },
+  {
+    "name": "Vallabh Vidyanagar",
+    "id": 134318
+  },
+  {
+    "name": "Vallabhipur",
+    "id": 142141
+  },
+  {
+    "name": "Valsad",
+    "id": 134322
+  },
+  {
+    "name": "Vanala",
+    "id": 147662
+  },
+  {
+    "name": "Vansda",
+    "id": 142142
+  },
+  {
+    "name": "Vanthli",
+    "id": 147663
+  },
+  {
+    "name": "Vapi",
+    "id": 134326
+  },
+  {
+    "name": "Vartej",
+    "id": 134331
+  },
+  {
+    "name": "Vasa",
+    "id": 134332
+  },
+  {
+    "name": "Vasavad",
+    "id": 147664
+  },
+  {
+    "name": "Vaso",
+    "id": 142143
+  },
+  {
+    "name": "Vataman",
+    "id": 147665
+  },
+  {
+    "name": "Vejalpur",
+    "id": 134339
+  },
+  {
+    "name": "Veraval",
+    "id": 134349
+  },
+  {
+    "name": "Vijapur",
+    "id": 134357
+  },
+  {
+    "name": "Vinchhiya",
+    "id": 142144
+  },
+  {
+    "name": "Viramgam",
+    "id": 147666
+  },
+  {
+    "name": "Virpur",
+    "id": 134365
+  },
+  {
+    "name": "Visavadar",
+    "id": 134387
+  },
+  {
+    "name": "Visnagar",
+    "id": 134371
+  },
+  {
+    "name": "Vyara",
+    "id": 134378
+  },
+  {
+    "name": "Wadhai",
+    "id": 142145
+  },
+  {
+    "name": "Wadhwan",
+    "id": 142146
+  },
+  {
+    "name": "Waghai",
+    "id": 134389
+  },
+  {
+    "name": "Wankaner",
+    "id": 134416
+  }
+]

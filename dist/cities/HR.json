@@ -1,0 +1,322 @@
+[
+  {
+    "name": "Ambala",
+    "id": 57675
+  },
+  {
+    "name": "Asandh",
+    "id": 134464
+  },
+  {
+    "name": "Ateli Mandi",
+    "id": 57756
+  },
+  {
+    "name": "Bahadurgarh",
+    "id": 57810
+  },
+  {
+    "name": "Bara Uchana",
+    "id": 57861
+  },
+  {
+    "name": "Barwala",
+    "id": 57890
+  },
+  {
+    "name": "Bawal",
+    "id": 58152
+  },
+  {
+    "name": "Beri Khas",
+    "id": 57937
+  },
+  {
+    "name": "Bhiwani",
+    "id": 57988
+  },
+  {
+    "name": "Bilaspur",
+    "id": 58054
+  },
+  {
+    "name": "Buriya",
+    "id": 58164
+  },
+  {
+    "name": "Charkhi Dadri",
+    "id": 58200
+  },
+  {
+    "name": "Chhachhrauli",
+    "id": 131528
+  },
+  {
+    "name": "Dabwali",
+    "id": 131638
+  },
+  {
+    "name": "Dharuhera",
+    "id": 131757
+  },
+  {
+    "name": "Ellenabad",
+    "id": 131831
+  },
+  {
+    "name": "Faridabad",
+    "id": 131853
+  },
+  {
+    "name": "Farrukhnagar",
+    "id": 131856
+  },
+  {
+    "name": "Fatehabad",
+    "id": 131872
+  },
+  {
+    "name": "Firozpur Jhirka",
+    "id": 131882
+  },
+  {
+    "name": "Gharaunda",
+    "id": 131937
+  },
+  {
+    "name": "Gohana",
+    "id": 131968
+  },
+  {
+    "name": "Gorakhpur",
+    "id": 131991
+  },
+  {
+    "name": "Gurgaon",
+    "id": 132032
+  },
+  {
+    "name": "Hansi",
+    "id": 132141
+  },
+  {
+    "name": "Hasanpur",
+    "id": 132084
+  },
+  {
+    "name": "Hisar",
+    "id": 132106
+  },
+  {
+    "name": "Hodal",
+    "id": 132109
+  },
+  {
+    "name": "Inda Chhoi",
+    "id": 132163
+  },
+  {
+    "name": "Indri",
+    "id": 132167
+  },
+  {
+    "name": "Jagadhri",
+    "id": 132194
+  },
+  {
+    "name": "Jakhal",
+    "id": 132305
+  },
+  {
+    "name": "Jhajjar",
+    "id": 132266
+  },
+  {
+    "name": "Jind",
+    "id": 132315
+  },
+  {
+    "name": "Kaithal",
+    "id": 132340
+  },
+  {
+    "name": "Kalanaur",
+    "id": 132360
+  },
+  {
+    "name": "Kalanwali",
+    "id": 132688
+  },
+  {
+    "name": "Kanina Khas",
+    "id": 132389
+  },
+  {
+    "name": "Karnal",
+    "id": 132405
+  },
+  {
+    "name": "Kharkhauda",
+    "id": 132478
+  },
+  {
+    "name": "Kheri Sampla",
+    "id": 132493
+  },
+  {
+    "name": "Kurukshetra",
+    "id": 132662
+  },
+  {
+    "name": "Ladwa",
+    "id": 132789
+  },
+  {
+    "name": "Loharu",
+    "id": 132772
+  },
+  {
+    "name": "Maham",
+    "id": 132825
+  },
+  {
+    "name": "Mahendragarh",
+    "id": 132832
+  },
+  {
+    "name": "Mandholi Kalan",
+    "id": 132892
+  },
+  {
+    "name": "Mustafabad",
+    "id": 133047
+  },
+  {
+    "name": "Narayangarh",
+    "id": 133176
+  },
+  {
+    "name": "Narnaul",
+    "id": 133272
+  },
+  {
+    "name": "Narnaund",
+    "id": 133273
+  },
+  {
+    "name": "Narwana",
+    "id": 133175
+  },
+  {
+    "name": "Nilokheri",
+    "id": 133286
+  },
+  {
+    "name": "Nuh",
+    "id": 133290
+  },
+  {
+    "name": "Palwal",
+    "id": 133337
+  },
+  {
+    "name": "Panchkula",
+    "id": 133345
+  },
+  {
+    "name": "Panipat",
+    "id": 133350
+  },
+  {
+    "name": "Pataudi",
+    "id": 133378
+  },
+  {
+    "name": "Pehowa",
+    "id": 133403
+  },
+  {
+    "name": "Pinjaur",
+    "id": 133451
+  },
+  {
+    "name": "Punahana",
+    "id": 133568
+  },
+  {
+    "name": "Pundri",
+    "id": 133567
+  },
+  {
+    "name": "Radaur",
+    "id": 133579
+  },
+  {
+    "name": "Rania",
+    "id": 133715
+  },
+  {
+    "name": "Ratia",
+    "id": 133617
+  },
+  {
+    "name": "Rewari",
+    "id": 133635
+  },
+  {
+    "name": "Rohtak",
+    "id": 133647
+  },
+  {
+    "name": "Safidon",
+    "id": 133746
+  },
+  {
+    "name": "Samalkha",
+    "id": 133774
+  },
+  {
+    "name": "Shadipur Julana",
+    "id": 133891
+  },
+  {
+    "name": "Shahabad",
+    "id": 133906
+  },
+  {
+    "name": "Sirsa",
+    "id": 133961
+  },
+  {
+    "name": "Sohna",
+    "id": 133980
+  },
+  {
+    "name": "Sonipat",
+    "id": 133999
+  },
+  {
+    "name": "Taoru",
+    "id": 134238
+  },
+  {
+    "name": "Thanesar",
+    "id": 134167
+  },
+  {
+    "name": "Tohana",
+    "id": 134206
+  },
+  {
+    "name": "Tosham",
+    "id": 134211
+  },
+  {
+    "name": "Uklana",
+    "id": 134265
+  },
+  {
+    "name": "Yamunanagar",
+    "id": 134422
+  }
+]

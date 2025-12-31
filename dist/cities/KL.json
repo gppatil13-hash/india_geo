@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Adoor",
+    "id": 57596
+  },
+  {
+    "name": "Alappuzha",
+    "id": 57637
+  },
+  {
+    "name": "Aluva",
+    "id": 57647
+  },
+  {
+    "name": "Alwaye",
+    "id": 57650
+  },
+  {
+    "name": "Angamali",
+    "id": 57703
+  },
+  {
+    "name": "Aroor",
+    "id": 57738
+  },
+  {
+    "name": "Arukutti",
+    "id": 57742
+  },
+  {
+    "name": "Attingal",
+    "id": 57762
+  },
+  {
+    "name": "Avanoor",
+    "id": 57772
+  },
+  {
+    "name": "Azhikkal",
+    "id": 57778
+  },
+  {
+    "name": "Beypore",
+    "id": 57945
+  },
+  {
+    "name": "Changanacheri",
+    "id": 58195
+  },
+  {
+    "name": "Chelakara",
+    "id": 131609
+  },
+  {
+    "name": "Chengannur",
+    "id": 131516
+  },
+  {
+    "name": "Cherpulassery",
+    "id": 131519
+  },
+  {
+    "name": "Cherthala",
+    "id": 131521
+  },
+  {
+    "name": "Chetwayi",
+    "id": 131524
+  },
+  {
+    "name": "Chittur",
+    "id": 131576
+  },
+  {
+    "name": "Cochin",
+    "id": 131617
+  },
+  {
+    "name": "Dharmadom",
+    "id": 131724
+  },
+  {
+    "name": "Edakkulam",
+    "id": 131829
+  },
+  {
+    "name": "Elur",
+    "id": 131835
+  },
+  {
+    "name": "Erattupetta",
+    "id": 131844
+  },
+  {
+    "name": "Ernakulam",
+    "id": 131840
+  },
+  {
+    "name": "Ferokh",
+    "id": 131874
+  },
+  {
+    "name": "Guruvayur",
+    "id": 132038
+  },
+  {
+    "name": "Idukki",
+    "id": 132154
+  },
+  {
+    "name": "Iringal",
+    "id": 132170
+  },
+  {
+    "name": "Irinjalakuda",
+    "id": 132171
+  },
+  {
+    "name": "Kadakkavoor",
+    "id": 132323
+  },
+  {
+    "name": "Kalamassery",
+    "id": 132344
+  },
+  {
+    "name": "Kalavoor",
+    "id": 132350
+  },
+  {
+    "name": "Kalpetta",
+    "id": 132356
+  },
+  {
+    "name": "Kanhangad",
+    "id": 132707
+  },
+  {
+    "name": "Kannavam",
+    "id": 132379
+  },
+  {
+    "name": "Kannur",
+    "id": 132383
+  },
+  {
+    "name": "Kasaragod",
+    "id": 132720
+  },
+  {
+    "name": "Kattanam",
+    "id": 132428
+  },
+  {
+    "name": "Kayankulam",
+    "id": 132731
+  },
+  {
+    "name": "Kizhake Chalakudi",
+    "id": 132536
+  },
+  {
+    "name": "Kodungallur",
+    "id": 132545
+  },
+  {
+    "name": "Kollam",
+    "id": 132558
+  },
+  {
+    "name": "Kotamangalam",
+    "id": 132595
+  },
+  {
+    "name": "Kottayam",
+    "id": 132609
+  },
+  {
+    "name": "Kovalam",
+    "id": 132614
+  },
+  {
+    "name": "Kozhikode",
+    "id": 132619
+  },
+  {
+    "name": "Kumbalam",
+    "id": 132639
+  },
+  {
+    "name": "Kunnamangalam",
+    "id": 132649
+  },
+  {
+    "name": "Kunnamkulam",
+    "id": 132650
+  },
+  {
+    "name": "Kunnumma",
+    "id": 132652
+  },
+  {
+    "name": "Kutiatodu",
+    "id": 132669
+  },
+  {
+    "name": "Kuttampuzha",
+    "id": 132671
+  },
+  {
+    "name": "Lalam",
+    "id": 132794
+  },
+  {
+    "name": "Mahe",
+    "id": 132852
+  },
+  {
+    "name": "Malappuram",
+    "id": 132866
+  },
+  {
+    "name": "Manjeri",
+    "id": 132913
+  },
+  {
+    "name": "Manjeshwaram",
+    "id": 132915
+  },
+  {
+    "name": "Mannarakkat",
+    "id": 132920
+  },
+  {
+    "name": "Marayur",
+    "id": 132933
+  },
+  {
+    "name": "Mattanur",
+    "id": 132942
+  },
+  {
+    "name": "Mavelikara",
+    "id": 133092
+  },
+  {
+    "name": "Mavoor",
+    "id": 132950
+  },
+  {
+    "name": "Muluppilagadu",
+    "id": 133023
+  },
+  {
+    "name": "Munnar",
+    "id": 133034
+  },
+  {
+    "name": "Muvattupula",
+    "id": 133103
+  },
+  {
+    "name": "Muvattupuzha",
+    "id": 133050
+  },
+  {
+    "name": "Nadapuram",
+    "id": 133253
+  },
+  {
+    "name": "Naduvannur",
+    "id": 133107
+  },
+  {
+    "name": "Nedumangad",
+    "id": 133198
+  },
+  {
+    "name": "Neyyattinkara",
+    "id": 133211
+  },
+  {
+    "name": "Nileshwar",
+    "id": 133287
+  },
+  {
+    "name": "Ottappalam",
+    "id": 133306
+  },
+  {
+    "name": "Palackattumala",
+    "id": 133321
+  },
+  {
+    "name": "Palakkad district",
+    "id": 133322
+  },
+  {
+    "name": "Palghat",
+    "id": 133528
+  },
+  {
+    "name": "Panamaram",
+    "id": 133343
+  },
+  {
+    "name": "Pappinissheri",
+    "id": 133546
+  },
+  {
+    "name": "Paravur Tekkumbhagam",
+    "id": 133357
+  },
+  {
+    "name": "Pariyapuram",
+    "id": 133359
+  },
+  {
+    "name": "Pathanamthitta",
+    "id": 133380
+  },
+  {
+    "name": "Pattanamtitta",
+    "id": 133389
+  },
+  {
+    "name": "Payyanur",
+    "id": 133399
+  },
+  {
+    "name": "Perinthalmanna",
+    "id": 153628
+  },
+  {
+    "name": "Perumbavoor",
+    "id": 133423
+  },
+  {
+    "name": "Perumpavur",
+    "id": 133424
+  },
+  {
+    "name": "Perya",
+    "id": 133427
+  },
+  {
+    "name": "Piravam",
+    "id": 133457
+  },
+  {
+    "name": "Ponmana",
+    "id": 133472
+  },
+  {
+    "name": "Ponnani",
+    "id": 133477
+  },
+  {
+    "name": "Punalur",
+    "id": 133502
+  },
+  {
+    "name": "Ramamangalam",
+    "id": 133692
+  },
+  {
+    "name": "Shertallai",
+    "id": 133865
+  },
+  {
+    "name": "Shoranur",
+    "id": 133915
+  },
+  {
+    "name": "Taliparamba",
+    "id": 134103
+  },
+  {
+    "name": "Thalassery",
+    "id": 134129
+  },
+  {
+    "name": "Thanniyam",
+    "id": 134142
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "id": 134154
+  },
+  {
+    "name": "Thrissur",
+    "id": 134161
+  },
+  {
+    "name": "Tirur",
+    "id": 134192
+  },
+  {
+    "name": "Tiruvalla",
+    "id": 134194
+  },
+  {
+    "name": "Vaikam",
+    "id": 134313
+  },
+  {
+    "name": "Varkala",
+    "id": 134330
+  },
+  {
+    "name": "Vatakara",
+    "id": 57786
+  },
+  {
+    "name": "Vayalar",
+    "id": 134336
+  },
+  {
+    "name": "Vettur",
+    "id": 134353
+  },
+  {
+    "name": "Wayanad",
+    "id": 134400
+  }
+]

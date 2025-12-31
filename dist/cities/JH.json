@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Bagra",
+    "id": 57802
+  },
+  {
+    "name": "Barka Kana",
+    "id": 57880
+  },
+  {
+    "name": "Barki Saria",
+    "id": 57878
+  },
+  {
+    "name": "Barwadih",
+    "id": 57889
+  },
+  {
+    "name": "Bhojudih",
+    "id": 57992
+  },
+  {
+    "name": "Bokaro",
+    "id": 58076
+  },
+  {
+    "name": "Bundu",
+    "id": 58163
+  },
+  {
+    "name": "Chaibasa",
+    "id": 131608
+  },
+  {
+    "name": "Chakradharpur",
+    "id": 58175
+  },
+  {
+    "name": "Chakulia",
+    "id": 131591
+  },
+  {
+    "name": "Chandil",
+    "id": 131598
+  },
+  {
+    "name": "Chas",
+    "id": 131606
+  },
+  {
+    "name": "Chatra",
+    "id": 131511
+  },
+  {
+    "name": "Chiria",
+    "id": 131570
+  },
+  {
+    "name": "Daltonganj",
+    "id": 131648
+  },
+  {
+    "name": "Deogarh",
+    "id": 131684
+  },
+  {
+    "name": "Dhanbad",
+    "id": 131715
+  },
+  {
+    "name": "Dhanwar",
+    "id": 131718
+  },
+  {
+    "name": "Dugda",
+    "id": 131794
+  },
+  {
+    "name": "Dumka",
+    "id": 131797
+  },
+  {
+    "name": "Garhwa",
+    "id": 131922
+  },
+  {
+    "name": "Ghatsila",
+    "id": 131952
+  },
+  {
+    "name": "Giridih",
+    "id": 131959
+  },
+  {
+    "name": "Gobindpur",
+    "id": 131962
+  },
+  {
+    "name": "Godda",
+    "id": 131963
+  },
+  {
+    "name": "Gomoh",
+    "id": 131980
+  },
+  {
+    "name": "Gopinathpur",
+    "id": 131986
+  },
+  {
+    "name": "Gua",
+    "id": 132006
+  },
+  {
+    "name": "Gumia",
+    "id": 132020
+  },
+  {
+    "name": "Gumla",
+    "id": 132021
+  },
+  {
+    "name": "Hazaribag",
+    "id": 132092
+  },
+  {
+    "name": "Hazaribagh",
+    "id": 132091
+  },
+  {
+    "name": "Hesla",
+    "id": 132094
+  },
+  {
+    "name": "Husainabad",
+    "id": 132131
+  },
+  {
+    "name": "Jagannathpur",
+    "id": 132183
+  },
+  {
+    "name": "Jamadoba",
+    "id": 132308
+  },
+  {
+    "name": "Jamshedpur",
+    "id": 132231
+  },
+  {
+    "name": "Jamtara",
+    "id": 132232
+  },
+  {
+    "name": "Jasidih",
+    "id": 132246
+  },
+  {
+    "name": "Jharia",
+    "id": 132268
+  },
+  {
+    "name": "Jugsalai",
+    "id": 132299
+  },
+  {
+    "name": "Jumri Tilaiya",
+    "id": 132300
+  },
+  {
+    "name": "Kalikapur",
+    "id": 132680
+  },
+  {
+    "name": "Kandra",
+    "id": 132699
+  },
+  {
+    "name": "Kanke",
+    "id": 132703
+  },
+  {
+    "name": "Katras",
+    "id": 132727
+  },
+  {
+    "name": "Kenduadih",
+    "id": 132443
+  },
+  {
+    "name": "Kharsawan",
+    "id": 132482
+  },
+  {
+    "name": "Khunti",
+    "id": 132506
+  },
+  {
+    "name": "Kodarma",
+    "id": 132540
+  },
+  {
+    "name": "Kuju",
+    "id": 132630
+  },
+  {
+    "name": "Latehar",
+    "id": 132758
+  },
+  {
+    "name": "Lohardaga",
+    "id": 132768
+  },
+  {
+    "name": "Madhupur",
+    "id": 132816
+  },
+  {
+    "name": "Malkera",
+    "id": 132873
+  },
+  {
+    "name": "Manoharpur",
+    "id": 132923
+  },
+  {
+    "name": "Mugma",
+    "id": 133015
+  },
+  {
+    "name": "Mushabani",
+    "id": 133044
+  },
+  {
+    "name": "Neturhat",
+    "id": 133209
+  },
+  {
+    "name": "Nirsa",
+    "id": 133223
+  },
+  {
+    "name": "Noamundi",
+    "id": 133246
+  },
+  {
+    "name": "Pakur",
+    "id": 133320
+  },
+  {
+    "name": "Palamu",
+    "id": 133339
+  },
+  {
+    "name": "Pashchim Singhbhum",
+    "id": 133374
+  },
+  {
+    "name": "patamda",
+    "id": 134446
+  },
+  {
+    "name": "Pathardih",
+    "id": 133557
+  },
+  {
+    "name": "Purba Singhbhum",
+    "id": 133510
+  },
+  {
+    "name": "Ramgarh",
+    "id": 133604
+  },
+  {
+    "name": "Ranchi",
+    "id": 133606
+  },
+  {
+    "name": "Ray",
+    "id": 133727
+  },
+  {
+    "name": "Sahibganj",
+    "id": 133752
+  },
+  {
+    "name": "Saraikela",
+    "id": 133800
+  },
+  {
+    "name": "Sarubera",
+    "id": 134079
+  },
+  {
+    "name": "Sijua",
+    "id": 133927
+  },
+  {
+    "name": "Simdega",
+    "id": 133939
+  },
+  {
+    "name": "Sini",
+    "id": 133952
+  },
+  {
+    "name": "Topchanchi",
+    "id": 134209
+  }
+]
